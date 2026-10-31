@@ -1,10 +1,6 @@
-pandas
-requests
-sqlalchemy
-psycopg2-binary
-streamlit
-plotly
-matplotlib
-seaborn
-python-dotenv
-jupyter
+# Dependências do dashboard (é o que o Streamlit Community Cloud instala).
+# Pipeline de dados, notebook e testes: requirements-dev.txt
+streamlit>=1.56
+pandas>=2.2
+plotly>=6.0
+pyarrow>=17.0

@@ -7,6 +7,7 @@ ainda não publicados (404) e falhas reais.
 
 Uso: python src/extract.py
 """
+
 from __future__ import annotations
 
 import json
@@ -119,9 +120,11 @@ def main() -> int:
     manifesto_path.write_text(json.dumps(resultado, indent=2, ensure_ascii=False), encoding="utf-8")
 
     total_ok = len(resultado["sucesso"]) + len(resultado["ja_existia"])
-    print(f"\nResumo: {total_ok} arquivos disponíveis localmente, "
-          f"{len(resultado['nao_publicado_404'])} ainda não publicados, "
-          f"{len(resultado['falha'])} falhas.")
+    print(
+        f"\nResumo: {total_ok} arquivos disponíveis localmente, "
+        f"{len(resultado['nao_publicado_404'])} ainda não publicados, "
+        f"{len(resultado['falha'])} falhas."
+    )
     print(f"Manifesto: {manifesto_path}")
 
     if len(resultado["falha"]) > 0:

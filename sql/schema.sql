@@ -33,8 +33,9 @@ CREATE INDEX IF NOT EXISTS idx_fato_preco_uf_data ON fato_preco(uf, data_coleta)
 CREATE INDEX IF NOT EXISTS idx_fato_preco_produto ON fato_preco(produto_raw);
 CREATE INDEX IF NOT EXISTS idx_fato_preco_ano_mes ON fato_preco(ano, mes);
 
--- Agregado materializado mensal por UF/produto. É isso que o dashboard
--- consulta (poucos milhares de linhas em vez de milhões), garantindo fluidez.
+-- Agregado materializado mensal por UF/categoria, só combustíveis cotados em R$/litro
+-- (GASOLINA, ETANOL, DIESEL; o GNV, em R$/m³, fica de fora). Base das queries de sql/analysis/.
+-- O dashboard lê os mesmos agregados exportados em Parquet (src/export.py).
 CREATE TABLE IF NOT EXISTS agg_preco_mensal_uf (
     ano             INTEGER NOT NULL,
     mes             INTEGER NOT NULL,

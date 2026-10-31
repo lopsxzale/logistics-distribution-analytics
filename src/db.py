@@ -1,4 +1,5 @@
 """Conexão com o banco de dados (SQLite por padrão, Postgres opcional via DATABASE_URL)."""
+
 import os
 from pathlib import Path
 

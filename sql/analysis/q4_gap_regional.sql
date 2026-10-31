@@ -1,14 +1,15 @@
 -- Pergunta 4: qual o gap % entre a região mais cara e a mais barata, e como evoluiu?
+-- Média regional ponderada pelo nº de coletas (mesma regra do dashboard).
 WITH preco_regiao AS (
     SELECT
         a.ano,
         a.mes,
-        e.regiao_sigla,
+        e.regiao_nome,
         a.categoria,
-        AVG(a.preco_medio) AS preco_medio
+        SUM(a.preco_medio * a.n_amostras) / SUM(a.n_amostras) AS preco_medio
     FROM agg_preco_mensal_uf a
     JOIN dim_estado e ON e.uf = a.uf
-    GROUP BY a.ano, a.mes, e.regiao_sigla, a.categoria
+    GROUP BY a.ano, a.mes, e.regiao_nome, a.categoria
 )
 SELECT
     ano,
