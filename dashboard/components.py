@@ -11,7 +11,7 @@ import streamlit as st
 from plotly.colors import sample_colorscale
 
 GITHUB_URL = "https://github.com/lopsxzale/logistics-distribution-analytics"
-LINKEDIN_URL = "www.linkedin.com/in/alexandrelopes0"
+LINKEDIN_URL = "https://www.linkedin.com/in/alexandrelopes0"
 
 # Paleta validada para o tema escuro (skill dataviz). A cor segue a entidade, nunca a posição.
 COR_CATEGORIA = {"GASOLINA": "#3987e5", "ETANOL": "#d95926", "DIESEL": "#199e70"}
