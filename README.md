@@ -15,25 +15,27 @@ Projeto de portfólio que conecta a experiência real do autor como Aprendiz de 
 
 ## Fonte de dados
 
-Série histórica de preços de combustíveis da **ANP** (Agência Nacional do Petróleo, Gás Natural e Biocombustíveis) — dados abertos em [gov.br/anp](https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/levantamento-de-precos) ou via portal [dados.gov.br](https://dados.gov.br/). **Fallback:** caso a fonte da ANP esteja indisponível ou mal estruturada para ingestão programática no momento da implementação, usar um dataset público equivalente de supply chain/distribuição (ex. DataCo Smart Supply Chain, no Kaggle) e documentar a troca aqui.
+Série histórica de preços de combustíveis da **ANP** (Agência Nacional do Petróleo, Gás Natural e Biocombustíveis) — dados abertos em [gov.br/anp](https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/levantamento-de-precos), com download direto em CSV mensal por produto (`.../shpc/dsan/{ano}/precos-{produto}-{mm}.csv`). Fonte validada e usada diretamente — o fallback (DataCo Smart Supply Chain, no Kaggle) não foi necessário.
+
+Janela carregada: **janeiro/2023 a dezembro/2025** (a série mensal unificada da ANP começa em 2023; antes disso só existe uma série semestral com formato diferente, não usada aqui), cobrindo Gasolina, Etanol e Diesel nas 27 UFs.
 
 ## Stack
 
-- **Banco de dados:** PostgreSQL
+- **Banco de dados:** SQLite por padrão (zero dependência externa — `data/processed/anp_combustiveis.db`), com suporte a PostgreSQL via `DATABASE_URL` no `.env` para quem preferir
 - **ETL/Análise:** Python (pandas, requests, SQLAlchemy, psycopg2)
 - **Visualização:** Streamlit + Plotly
 - **Notebook exploratório:** Jupyter
 
 ## Roadmap
 
-- [ ] Validar a fonte de dados (ANP vs. fallback) e documentar o formato/endpoint em `src/extract.py`
-- [ ] Baixar/coletar os dados brutos para `data/raw/`
-- [ ] Criar schema em `sql/schema.sql` e carregar os dados (`src/load.py`)
-- [ ] Queries analíticas em `sql/analysis/` (uma por pergunta de negócio)
-- [ ] Notebook de EDA em `notebooks/01_exploracao.ipynb`
-- [ ] Dashboard Streamlit em `dashboard/app.py`
+- [x] Validar a fonte de dados (ANP vs. fallback) e documentar o formato/endpoint em `src/extract.py`
+- [x] Baixar/coletar os dados brutos para `data/raw/`
+- [x] Criar schema em `sql/schema.sql` e carregar os dados (`src/load.py`)
+- [x] Queries analíticas em `sql/analysis/` (uma por pergunta de negócio)
+- [x] Notebook de EDA em `notebooks/01_exploracao.ipynb`
+- [x] Dashboard Streamlit em `dashboard/app.py`
 - [ ] Publicar o dashboard e colar o link abaixo
-- [ ] Escrever a seção "Insights e Recomendações" com os achados finais
+- [x] Escrever a seção "Insights e Recomendações" com os achados finais
 
 ## Como rodar localmente
 
@@ -46,10 +48,17 @@ python src/load.py
 streamlit run dashboard/app.py
 ```
 
+Por padrão usa SQLite (sem configuração extra). Para customizar a janela de anos ou usar Postgres, copie `.env.example` para `.env` e ajuste.
+
 ## Dashboard ao vivo
 
-_(link a publicar após a implementação)_
+_(link a publicar)_
 
 ## Insights e recomendações
 
-_(a preencher depois da análise)_
+Análise sobre 2.6 milhões de registros de preço (2023-01 a 2025-12, 27 UFs). Foco em **diesel**, o combustível mais relevante para uma operação de distribuição:
+
+1. **Variação por estado/região:** o preço médio de diesel caiu em todas as regiões entre jan/2023 e dez/2025 (ex.: Nordeste R$ 6,51 → R$ 6,03). O **Norte é consistentemente a região mais cara** (R$ 6,84 → R$ 6,60), refletindo o custo logístico de abastecer áreas remotas.
+2. **Sazonalidade:** existe um padrão sazonal claro — **junho/julho são os meses mais baratos** (~R$ 5,81) e **fevereiro o mais caro** (~R$ 6,33), uma amplitude de ~R$ 0,52 (~8,5%) entre os extremos do ano. Vale considerar antecipar reabastecimento/contratos antes de fevereiro.
+3. **Volatilidade por estado:** **AM (8,1%), PA (7,7%) e AL (6,9%)** de coeficiente de variação lideram a volatilidade de preço — estados do Norte/Nordeste exigem margem de segurança maior no planejamento de custo de combustível e nas rotas que passam por eles.
+4. **Gap regional:** o gap % entre a região mais cara e a mais barata está **aumentando**, não encolhendo: 9,1% (2023) → 9,5% (2024) → 10,5% (2025) — a disparidade regional de preço vem se ampliando ano a ano, o que reforça a importância de revisar a malha logística/fornecedores por região periodicamente, em vez de assumir um custo nacional único.
