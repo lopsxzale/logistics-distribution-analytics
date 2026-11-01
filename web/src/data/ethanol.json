@@ -1,0 +1,412 @@
+{
+ "threshold": 0.7,
+ "states": [
+  {
+   "uf": "MS",
+   "ethanol": 3.9958,
+   "gasoline": 6.1995,
+   "ratio": 0.6445,
+   "worth": true
+  },
+  {
+   "uf": "SP",
+   "ethanol": 4.1667,
+   "gasoline": 6.1856,
+   "ratio": 0.6736,
+   "worth": true
+  },
+  {
+   "uf": "MT",
+   "ethanol": 4.3822,
+   "gasoline": 6.4031,
+   "ratio": 0.6844,
+   "worth": true
+  },
+  {
+   "uf": "PR",
+   "ethanol": 4.4437,
+   "gasoline": 6.4437,
+   "ratio": 0.6896,
+   "worth": true
+  },
+  {
+   "uf": "MG",
+   "ethanol": 4.3629,
+   "gasoline": 6.1372,
+   "ratio": 0.7109,
+   "worth": false
+  },
+  {
+   "uf": "ES",
+   "ethanol": 4.5271,
+   "gasoline": 6.3587,
+   "ratio": 0.712,
+   "worth": false
+  },
+  {
+   "uf": "AC",
+   "ethanol": 5.3908,
+   "gasoline": 7.5057,
+   "ratio": 0.7182,
+   "worth": false
+  },
+  {
+   "uf": "PB",
+   "ethanol": 4.2988,
+   "gasoline": 5.9699,
+   "ratio": 0.7201,
+   "worth": false
+  },
+  {
+   "uf": "PE",
+   "ethanol": 4.6175,
+   "gasoline": 6.3965,
+   "ratio": 0.7219,
+   "worth": false
+  },
+  {
+   "uf": "GO",
+   "ethanol": 4.6542,
+   "gasoline": 6.4242,
+   "ratio": 0.7245,
+   "worth": false
+  },
+  {
+   "uf": "DF",
+   "ethanol": 4.6321,
+   "gasoline": 6.364,
+   "ratio": 0.7279,
+   "worth": false
+  },
+  {
+   "uf": "TO",
+   "ethanol": 4.799,
+   "gasoline": 6.5515,
+   "ratio": 0.7325,
+   "worth": false
+  },
+  {
+   "uf": "SE",
+   "ethanol": 4.8344,
+   "gasoline": 6.5355,
+   "ratio": 0.7397,
+   "worth": false
+  },
+  {
+   "uf": "SC",
+   "ethanol": 4.7227,
+   "gasoline": 6.3614,
+   "ratio": 0.7424,
+   "worth": false
+  },
+  {
+   "uf": "RJ",
+   "ethanol": 4.6184,
+   "gasoline": 6.2074,
+   "ratio": 0.744,
+   "worth": false
+  },
+  {
+   "uf": "BA",
+   "ethanol": 4.7683,
+   "gasoline": 6.3739,
+   "ratio": 0.7481,
+   "worth": false
+  },
+  {
+   "uf": "PA",
+   "ethanol": 4.8175,
+   "gasoline": 6.43,
+   "ratio": 0.7492,
+   "worth": false
+  },
+  {
+   "uf": "RR",
+   "ethanol": 5.1806,
+   "gasoline": 6.9076,
+   "ratio": 0.75,
+   "worth": false
+  },
+  {
+   "uf": "PI",
+   "ethanol": 4.493,
+   "gasoline": 5.9088,
+   "ratio": 0.7604,
+   "worth": false
+  },
+  {
+   "uf": "AM",
+   "ethanol": 5.4749,
+   "gasoline": 7.1193,
+   "ratio": 0.769,
+   "worth": false
+  },
+  {
+   "uf": "RS",
+   "ethanol": 4.8746,
+   "gasoline": 6.3156,
+   "ratio": 0.7718,
+   "worth": false
+  },
+  {
+   "uf": "AL",
+   "ethanol": 4.9912,
+   "gasoline": 6.3876,
+   "ratio": 0.7814,
+   "worth": false
+  },
+  {
+   "uf": "CE",
+   "ethanol": 4.9193,
+   "gasoline": 6.2911,
+   "ratio": 0.7819,
+   "worth": false
+  },
+  {
+   "uf": "RO",
+   "ethanol": 5.3976,
+   "gasoline": 6.8852,
+   "ratio": 0.7839,
+   "worth": false
+  },
+  {
+   "uf": "RN",
+   "ethanol": 4.8603,
+   "gasoline": 6.1918,
+   "ratio": 0.785,
+   "worth": false
+  },
+  {
+   "uf": "MA",
+   "ethanol": 4.8898,
+   "gasoline": 6.0186,
+   "ratio": 0.8124,
+   "worth": false
+  },
+  {
+   "uf": "AP",
+   "ethanol": 5.5547,
+   "gasoline": 6.0943,
+   "ratio": 0.9115,
+   "worth": false
+  }
+ ],
+ "monthly": [
+  {
+   "month": "2023-01",
+   "ratio": 0.794,
+   "share": 0.0,
+   "states": 0
+  },
+  {
+   "month": "2023-02",
+   "ratio": 0.7749,
+   "share": 0.0741,
+   "states": 2
+  },
+  {
+   "month": "2023-03",
+   "ratio": 0.7385,
+   "share": 0.1111,
+   "states": 3
+  },
+  {
+   "month": "2023-04",
+   "ratio": 0.7454,
+   "share": 0.037,
+   "states": 1
+  },
+  {
+   "month": "2023-05",
+   "ratio": 0.7622,
+   "share": 0.037,
+   "states": 1
+  },
+  {
+   "month": "2023-06",
+   "ratio": 0.7323,
+   "share": 0.1111,
+   "states": 3
+  },
+  {
+   "month": "2023-07",
+   "ratio": 0.7166,
+   "share": 0.2222,
+   "states": 6
+  },
+  {
+   "month": "2023-08",
+   "ratio": 0.6812,
+   "share": 0.2593,
+   "states": 7
+  },
+  {
+   "month": "2023-09",
+   "ratio": 0.6675,
+   "share": 0.2963,
+   "states": 8
+  },
+  {
+   "month": "2023-10",
+   "ratio": 0.6676,
+   "share": 0.2963,
+   "states": 8
+  },
+  {
+   "month": "2023-11",
+   "ratio": 0.6685,
+   "share": 0.2963,
+   "states": 8
+  },
+  {
+   "month": "2023-12",
+   "ratio": 0.6605,
+   "share": 0.3704,
+   "states": 10
+  },
+  {
+   "month": "2024-01",
+   "ratio": 0.6502,
+   "share": 0.4444,
+   "states": 12
+  },
+  {
+   "month": "2024-02",
+   "ratio": 0.6511,
+   "share": 0.5926,
+   "states": 16
+  },
+  {
+   "month": "2024-03",
+   "ratio": 0.6546,
+   "share": 0.4815,
+   "states": 13
+  },
+  {
+   "month": "2024-04",
+   "ratio": 0.677,
+   "share": 0.3333,
+   "states": 9
+  },
+  {
+   "month": "2024-05",
+   "ratio": 0.6819,
+   "share": 0.3333,
+   "states": 9
+  },
+  {
+   "month": "2024-06",
+   "ratio": 0.6806,
+   "share": 0.3704,
+   "states": 10
+  },
+  {
+   "month": "2024-07",
+   "ratio": 0.6903,
+   "share": 0.3704,
+   "states": 10
+  },
+  {
+   "month": "2024-08",
+   "ratio": 0.6905,
+   "share": 0.3333,
+   "states": 9
+  },
+  {
+   "month": "2024-09",
+   "ratio": 0.6887,
+   "share": 0.3333,
+   "states": 9
+  },
+  {
+   "month": "2024-10",
+   "ratio": 0.6841,
+   "share": 0.3704,
+   "states": 10
+  },
+  {
+   "month": "2024-11",
+   "ratio": 0.6841,
+   "share": 0.3704,
+   "states": 10
+  },
+  {
+   "month": "2024-12",
+   "ratio": 0.686,
+   "share": 0.4074,
+   "states": 11
+  },
+  {
+   "month": "2025-01",
+   "ratio": 0.6968,
+   "share": 0.2593,
+   "states": 7
+  },
+  {
+   "month": "2025-02",
+   "ratio": 0.7047,
+   "share": 0.1852,
+   "states": 5
+  },
+  {
+   "month": "2025-03",
+   "ratio": 0.7061,
+   "share": 0.2222,
+   "states": 6
+  },
+  {
+   "month": "2025-04",
+   "ratio": 0.7041,
+   "share": 0.2222,
+   "states": 6
+  },
+  {
+   "month": "2025-05",
+   "ratio": 0.7039,
+   "share": 0.1852,
+   "states": 5
+  },
+  {
+   "month": "2025-06",
+   "ratio": 0.7,
+   "share": 0.2222,
+   "states": 6
+  },
+  {
+   "month": "2025-07",
+   "ratio": 0.6945,
+   "share": 0.2222,
+   "states": 6
+  },
+  {
+   "month": "2025-08",
+   "ratio": 0.6954,
+   "share": 0.2222,
+   "states": 6
+  },
+  {
+   "month": "2025-09",
+   "ratio": 0.7036,
+   "share": 0.2222,
+   "states": 6
+  },
+  {
+   "month": "2025-10",
+   "ratio": 0.7057,
+   "share": 0.1852,
+   "states": 5
+  },
+  {
+   "month": "2025-11",
+   "ratio": 0.7081,
+   "share": 0.1481,
+   "states": 4
+  },
+  {
+   "month": "2025-12",
+   "ratio": 0.72,
+   "share": 0.1481,
+   "states": 4
+  }
+ ]
+}

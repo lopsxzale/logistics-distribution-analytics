@@ -1,0 +1,63 @@
+{
+ "north_price": 6.4,
+ "others_price": 5.9616,
+ "north_premium_pct": 7.3546,
+ "region_spread_others_pct": 0.4367,
+ "priciest_uf": "AC",
+ "priciest_price": 7.5722,
+ "priciest_premium_pct": 24.2545,
+ "cheapest_uf": "SE",
+ "cheapest_price": 5.8146,
+ "spread_brl": 1.7576,
+ "diesel_now": 6.0941,
+ "change_pct": {
+  "DIESEL": -4.9432,
+  "GASOLINA": 22.7092,
+  "ETANOL": 11.2726
+ },
+ "states_cheaper_diesel": 26,
+ "states_total": 27,
+ "season_peak_month": 2,
+ "season_peak_pct": 3.1904,
+ "season_low_month": 7,
+ "season_low_pct": -5.1099,
+ "season_years": 3,
+ "most_volatile": [
+  "SE",
+  "PE",
+  "DF"
+ ],
+ "most_volatile_values": [
+  4.51,
+  4.28,
+  4.17
+ ],
+ "volatility_median": 3.7166,
+ "priciest_volatility": 2.6272,
+ "priciest_stability_rank": 1,
+ "most_dispersed": [
+  "AM",
+  "PA"
+ ],
+ "most_dispersed_values": [
+  8.29,
+  7.76
+ ],
+ "gap_by_year": {
+  "2023": 8.6544,
+  "2024": 8.0017,
+  "2025": 8.2864
+ },
+ "ethanol_worth_ufs": [
+  "MS",
+  "SP",
+  "MT",
+  "PR"
+ ],
+ "ethanol_worth_count": 4,
+ "brand_max": "VIBRA",
+ "brand_max_pct": 3.4158,
+ "s10_premium_pct": 1.1796,
+ "s10_premium_brl": 0.0701,
+ "additive_premium_pct": 3.2484
+}

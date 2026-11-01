@@ -1,0 +1,1079 @@
+{
+ "monthly": [
+  {
+   "fuel": "DIESEL",
+   "month": "2023-01",
+   "max_region": "Norte",
+   "min_region": "Sul",
+   "gap_pct": 7.2877
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2023-02",
+   "max_region": "Norte",
+   "min_region": "Sul",
+   "gap_pct": 8.5529
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2023-03",
+   "max_region": "Norte",
+   "min_region": "Sul",
+   "gap_pct": 10.5164
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2023-04",
+   "max_region": "Norte",
+   "min_region": "Sul",
+   "gap_pct": 11.2529
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2023-05",
+   "max_region": "Norte",
+   "min_region": "Nordeste",
+   "gap_pct": 9.7313
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2023-06",
+   "max_region": "Norte",
+   "min_region": "Nordeste",
+   "gap_pct": 8.5828
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2023-07",
+   "max_region": "Norte",
+   "min_region": "Nordeste",
+   "gap_pct": 8.2776
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2023-08",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 7.4603
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2023-09",
+   "max_region": "Norte",
+   "min_region": "Sul",
+   "gap_pct": 7.1972
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2023-10",
+   "max_region": "Norte",
+   "min_region": "Sul",
+   "gap_pct": 8.0629
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2023-11",
+   "max_region": "Norte",
+   "min_region": "Sul",
+   "gap_pct": 7.8967
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2023-12",
+   "max_region": "Norte",
+   "min_region": "Nordeste",
+   "gap_pct": 9.0339
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2024-01",
+   "max_region": "Norte",
+   "min_region": "Nordeste",
+   "gap_pct": 8.2305
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2024-02",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 7.6827
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2024-03",
+   "max_region": "Norte",
+   "min_region": "Nordeste",
+   "gap_pct": 8.3102
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2024-04",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 6.8697
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2024-05",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 6.7481
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2024-06",
+   "max_region": "Norte",
+   "min_region": "Nordeste",
+   "gap_pct": 6.7419
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2024-07",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 7.7211
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2024-08",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 8.3424
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2024-09",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 7.6833
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2024-10",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 9.2437
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2024-11",
+   "max_region": "Norte",
+   "min_region": "Centro-Oeste",
+   "gap_pct": 9.1233
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2024-12",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 9.3233
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2025-01",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 8.9737
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2025-02",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 7.265
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2025-03",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 6.9746
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2025-04",
+   "max_region": "Norte",
+   "min_region": "Nordeste",
+   "gap_pct": 8.1308
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2025-05",
+   "max_region": "Norte",
+   "min_region": "Nordeste",
+   "gap_pct": 9.4099
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2025-06",
+   "max_region": "Norte",
+   "min_region": "Nordeste",
+   "gap_pct": 9.226
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2025-07",
+   "max_region": "Norte",
+   "min_region": "Nordeste",
+   "gap_pct": 9.2525
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2025-08",
+   "max_region": "Norte",
+   "min_region": "Nordeste",
+   "gap_pct": 8.3725
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2025-09",
+   "max_region": "Norte",
+   "min_region": "Nordeste",
+   "gap_pct": 8.6171
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2025-10",
+   "max_region": "Norte",
+   "min_region": "Nordeste",
+   "gap_pct": 8.4664
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2025-11",
+   "max_region": "Norte",
+   "min_region": "Nordeste",
+   "gap_pct": 7.5382
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2025-12",
+   "max_region": "Norte",
+   "min_region": "Nordeste",
+   "gap_pct": 7.21
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2023-01",
+   "max_region": "Nordeste",
+   "min_region": "Centro-Oeste",
+   "gap_pct": 5.4261
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2023-02",
+   "max_region": "Norte",
+   "min_region": "Centro-Oeste",
+   "gap_pct": 6.2922
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2023-03",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 7.3064
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2023-04",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 8.7728
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2023-05",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 8.8395
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2023-06",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 7.2559
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2023-07",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 8.6399
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2023-08",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 10.4996
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2023-09",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 10.6041
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2023-10",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 10.1919
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2023-11",
+   "max_region": "Norte",
+   "min_region": "Centro-Oeste",
+   "gap_pct": 10.7008
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2023-12",
+   "max_region": "Norte",
+   "min_region": "Centro-Oeste",
+   "gap_pct": 9.9838
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2024-01",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 7.7861
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2024-02",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 7.5538
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2024-03",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 7.7928
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2024-04",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 7.9001
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2024-05",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 7.7308
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2024-06",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 7.9449
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2024-07",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 8.9326
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2024-08",
+   "max_region": "Norte",
+   "min_region": "Centro-Oeste",
+   "gap_pct": 9.7569
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2024-09",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 8.8685
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2024-10",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 9.8299
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2024-11",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 10.5841
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2024-12",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 10.9443
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2025-01",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 10.0741
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2025-02",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 9.5828
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2025-03",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 9.3329
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2025-04",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 8.9559
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2025-05",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 8.6513
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2025-06",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 9.0666
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2025-07",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 9.578
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2025-08",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 8.8872
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2025-09",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 9.0094
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2025-10",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 9.0044
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2025-11",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 8.758
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2025-12",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 8.7587
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2023-01",
+   "max_region": "Norte",
+   "min_region": "Centro-Oeste",
+   "gap_pct": 16.5985
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2023-02",
+   "max_region": "Norte",
+   "min_region": "Centro-Oeste",
+   "gap_pct": 17.4937
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2023-03",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 17.237
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2023-04",
+   "max_region": "Norte",
+   "min_region": "Centro-Oeste",
+   "gap_pct": 18.4777
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2023-05",
+   "max_region": "Norte",
+   "min_region": "Centro-Oeste",
+   "gap_pct": 20.304
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2023-06",
+   "max_region": "Norte",
+   "min_region": "Centro-Oeste",
+   "gap_pct": 24.5174
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2023-07",
+   "max_region": "Norte",
+   "min_region": "Centro-Oeste",
+   "gap_pct": 28.0859
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2023-08",
+   "max_region": "Norte",
+   "min_region": "Centro-Oeste",
+   "gap_pct": 33.4687
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2023-09",
+   "max_region": "Norte",
+   "min_region": "Centro-Oeste",
+   "gap_pct": 31.812
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2023-10",
+   "max_region": "Norte",
+   "min_region": "Centro-Oeste",
+   "gap_pct": 32.2407
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2023-11",
+   "max_region": "Norte",
+   "min_region": "Centro-Oeste",
+   "gap_pct": 31.5578
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2023-12",
+   "max_region": "Norte",
+   "min_region": "Centro-Oeste",
+   "gap_pct": 32.033
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2024-01",
+   "max_region": "Norte",
+   "min_region": "Centro-Oeste",
+   "gap_pct": 27.8837
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2024-02",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 22.1832
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2024-03",
+   "max_region": "Norte",
+   "min_region": "Centro-Oeste",
+   "gap_pct": 21.9349
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2024-04",
+   "max_region": "Nordeste",
+   "min_region": "Sudeste",
+   "gap_pct": 17.1815
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2024-05",
+   "max_region": "Nordeste",
+   "min_region": "Centro-Oeste",
+   "gap_pct": 20.2713
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2024-06",
+   "max_region": "Nordeste",
+   "min_region": "Centro-Oeste",
+   "gap_pct": 19.8023
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2024-07",
+   "max_region": "Nordeste",
+   "min_region": "Centro-Oeste",
+   "gap_pct": 18.1322
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2024-08",
+   "max_region": "Norte",
+   "min_region": "Centro-Oeste",
+   "gap_pct": 20.7542
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2024-09",
+   "max_region": "Norte",
+   "min_region": "Centro-Oeste",
+   "gap_pct": 18.1795
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2024-10",
+   "max_region": "Norte",
+   "min_region": "Centro-Oeste",
+   "gap_pct": 19.862
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2024-11",
+   "max_region": "Norte",
+   "min_region": "Centro-Oeste",
+   "gap_pct": 22.4328
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2024-12",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 20.0137
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2025-01",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 17.9496
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2025-02",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 17.1872
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2025-03",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 18.3135
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2025-04",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 19.1916
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2025-05",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 19.6514
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2025-06",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 21.8349
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2025-07",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 23.1606
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2025-08",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 22.5541
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2025-09",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 21.1345
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2025-10",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 21.0867
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2025-11",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 20.7445
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2025-12",
+   "max_region": "Norte",
+   "min_region": "Sudeste",
+   "gap_pct": 18.2369
+  }
+ ],
+ "yearly": [
+  {
+   "year": 2023,
+   "gap_pct": 8.6544,
+   "fuel": "DIESEL"
+  },
+  {
+   "year": 2024,
+   "gap_pct": 8.0017,
+   "fuel": "DIESEL"
+  },
+  {
+   "year": 2025,
+   "gap_pct": 8.2864,
+   "fuel": "DIESEL"
+  },
+  {
+   "year": 2023,
+   "gap_pct": 8.7094,
+   "fuel": "GASOLINA"
+  },
+  {
+   "year": 2024,
+   "gap_pct": 8.8021,
+   "fuel": "GASOLINA"
+  },
+  {
+   "year": 2025,
+   "gap_pct": 9.1383,
+   "fuel": "GASOLINA"
+  },
+  {
+   "year": 2023,
+   "gap_pct": 25.3189,
+   "fuel": "ETANOL"
+  },
+  {
+   "year": 2024,
+   "gap_pct": 20.7193,
+   "fuel": "ETANOL"
+  },
+  {
+   "year": 2025,
+   "gap_pct": 20.0871,
+   "fuel": "ETANOL"
+  }
+ ],
+ "ruler": [
+  {
+   "fuel": "DIESEL",
+   "year": 2023,
+   "region": "Centro-Oeste",
+   "price": 5.8261
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2023,
+   "region": "Nordeste",
+   "price": 5.8022
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2023,
+   "region": "Norte",
+   "price": 6.2171
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2023,
+   "region": "Sudeste",
+   "price": 5.7816
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2023,
+   "region": "Sul",
+   "price": 5.7463
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2024,
+   "region": "Centro-Oeste",
+   "price": 5.9698
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2024,
+   "region": "Nordeste",
+   "price": 5.9774
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2024,
+   "region": "Norte",
+   "price": 6.4202
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2024,
+   "region": "Sudeste",
+   "price": 5.9623
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2024,
+   "region": "Sul",
+   "price": 5.9854
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2025,
+   "region": "Centro-Oeste",
+   "price": 6.1607
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2025,
+   "region": "Nordeste",
+   "price": 6.1205
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2025,
+   "region": "Norte",
+   "price": 6.6009
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2025,
+   "region": "Sudeste",
+   "price": 6.1454
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2025,
+   "region": "Sul",
+   "price": 6.1769
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2023,
+   "region": "Centro-Oeste",
+   "price": 5.5268
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2023,
+   "region": "Nordeste",
+   "price": 5.7153
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2023,
+   "region": "Norte",
+   "price": 5.9823
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2023,
+   "region": "Sudeste",
+   "price": 5.5136
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2023,
+   "region": "Sul",
+   "price": 5.6303
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2024,
+   "region": "Centro-Oeste",
+   "price": 5.9944
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2024,
+   "region": "Nordeste",
+   "price": 6.0808
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2024,
+   "region": "Norte",
+   "price": 6.4166
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2024,
+   "region": "Sudeste",
+   "price": 5.9138
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2024,
+   "region": "Sul",
+   "price": 6.0569
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2025,
+   "region": "Centro-Oeste",
+   "price": 6.356
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2025,
+   "region": "Nordeste",
+   "price": 6.3479
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2025,
+   "region": "Norte",
+   "price": 6.7953
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2025,
+   "region": "Sudeste",
+   "price": 6.2261
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2025,
+   "region": "Sul",
+   "price": 6.4016
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2023,
+   "region": "Centro-Oeste",
+   "price": 3.7221
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2023,
+   "region": "Nordeste",
+   "price": 4.4095
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2023,
+   "region": "Norte",
+   "price": 4.6559
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2023,
+   "region": "Sudeste",
+   "price": 3.7828
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2023,
+   "region": "Sul",
+   "price": 4.2884
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2024,
+   "region": "Centro-Oeste",
+   "price": 3.8355
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2024,
+   "region": "Nordeste",
+   "price": 4.4961
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2024,
+   "region": "Norte",
+   "price": 4.5953
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2024,
+   "region": "Sudeste",
+   "price": 3.8566
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2024,
+   "region": "Sul",
+   "price": 4.2565
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2025,
+   "region": "Centro-Oeste",
+   "price": 4.3527
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2025,
+   "region": "Nordeste",
+   "price": 4.8453
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2025,
+   "region": "Norte",
+   "price": 5.0856
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2025,
+   "region": "Sudeste",
+   "price": 4.2378
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2025,
+   "region": "Sul",
+   "price": 4.6298
+  }
+ ]
+}

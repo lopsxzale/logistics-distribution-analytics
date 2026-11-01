@@ -1,0 +1,766 @@
+{
+ "last_month": "2025-12",
+ "first_month": "2023-01",
+ "national": {
+  "DIESEL": {
+   "first": 6.411,
+   "last": 6.0941,
+   "prev": 6.0893,
+   "change_pct": -4.9432
+  },
+  "GASOLINA": {
+   "first": 5.1274,
+   "last": 6.2917,
+   "prev": 6.2764,
+   "change_pct": 22.7092
+  },
+  "ETANOL": {
+   "first": 4.0713,
+   "last": 4.5303,
+   "prev": 4.4443,
+   "change_pct": 11.2726
+  }
+ },
+ "states": [
+  {
+   "fuel": "DIESEL",
+   "uf": "AC",
+   "price": 7.5722,
+   "diff_pct": 24.2545,
+   "price_start": 7.2491,
+   "change_pct": 4.4571
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "AL",
+   "price": 6.2674,
+   "diff_pct": 2.8436,
+   "price_start": 6.7177,
+   "change_pct": -6.7032
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "AM",
+   "price": 6.7152,
+   "diff_pct": 10.1917,
+   "price_start": 6.745,
+   "change_pct": -0.4418
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "AP",
+   "price": 6.448,
+   "diff_pct": 5.8072,
+   "price_start": 6.5978,
+   "change_pct": -2.2705
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "BA",
+   "price": 6.152,
+   "diff_pct": 0.95,
+   "price_start": 6.5655,
+   "change_pct": -6.2981
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "CE",
+   "price": 6.0481,
+   "diff_pct": -0.7549,
+   "price_start": 6.7018,
+   "change_pct": -9.7541
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "DF",
+   "price": 5.9907,
+   "diff_pct": -1.6968,
+   "price_start": 6.4895,
+   "change_pct": -7.6863
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "ES",
+   "price": 5.9864,
+   "diff_pct": -1.7674,
+   "price_start": 6.1948,
+   "change_pct": -3.3641
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "GO",
+   "price": 5.9597,
+   "diff_pct": -2.2055,
+   "price_start": 6.2692,
+   "change_pct": -4.9368
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "MA",
+   "price": 6.0302,
+   "diff_pct": -1.0486,
+   "price_start": 6.3846,
+   "change_pct": -5.5509
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "MG",
+   "price": 5.959,
+   "diff_pct": -2.217,
+   "price_start": 6.2338,
+   "change_pct": -4.4082
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "MS",
+   "price": 6.0598,
+   "diff_pct": -0.5629,
+   "price_start": 6.4956,
+   "change_pct": -6.7092
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "MT",
+   "price": 6.356,
+   "diff_pct": 4.2975,
+   "price_start": 6.532,
+   "change_pct": -2.6944
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "PA",
+   "price": 6.3256,
+   "diff_pct": 3.7987,
+   "price_start": 6.8132,
+   "change_pct": -7.1567
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "PB",
+   "price": 5.8551,
+   "diff_pct": -3.9219,
+   "price_start": 6.3694,
+   "change_pct": -8.0745
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "PE",
+   "price": 5.8368,
+   "diff_pct": -4.2222,
+   "price_start": 6.2393,
+   "change_pct": -6.451
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "PI",
+   "price": 6.0291,
+   "diff_pct": -1.0667,
+   "price_start": 6.6998,
+   "change_pct": -10.0107
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "PR",
+   "price": 5.995,
+   "diff_pct": -1.6262,
+   "price_start": 6.3015,
+   "change_pct": -4.8639
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "RJ",
+   "price": 6.1696,
+   "diff_pct": 1.2388,
+   "price_start": 6.3345,
+   "change_pct": -2.6032
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "RN",
+   "price": 6.2236,
+   "diff_pct": 2.1249,
+   "price_start": 6.6593,
+   "change_pct": -6.5427
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "RO",
+   "price": 6.4317,
+   "diff_pct": 5.5397,
+   "price_start": 7.0833,
+   "change_pct": -9.1991
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "RR",
+   "price": 6.6412,
+   "diff_pct": 8.9774,
+   "price_start": 7.1623,
+   "change_pct": -7.2756
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "RS",
+   "price": 6.1283,
+   "diff_pct": 0.5611,
+   "price_start": 6.2634,
+   "change_pct": -2.157
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "SC",
+   "price": 6.1259,
+   "diff_pct": 0.5217,
+   "price_start": 6.4426,
+   "change_pct": -4.9157
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "SE",
+   "price": 5.8146,
+   "diff_pct": -4.5865,
+   "price_start": 6.2517,
+   "change_pct": -6.9917
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "SP",
+   "price": 6.0954,
+   "diff_pct": 0.0212,
+   "price_start": 6.4126,
+   "change_pct": -4.9465
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "TO",
+   "price": 6.0689,
+   "diff_pct": -0.4136,
+   "price_start": 6.196,
+   "change_pct": -2.0513
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "AC",
+   "price": 7.455,
+   "diff_pct": 18.4886,
+   "price_start": 5.3169,
+   "change_pct": 40.2133
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "AL",
+   "price": 6.416,
+   "diff_pct": 1.9749,
+   "price_start": 5.2595,
+   "change_pct": 21.9888
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "AM",
+   "price": 7.1693,
+   "diff_pct": 13.9477,
+   "price_start": 5.2245,
+   "change_pct": 37.2246
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "AP",
+   "price": 6.1046,
+   "diff_pct": -2.9745,
+   "price_start": 4.628,
+   "change_pct": 31.9058
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "BA",
+   "price": 6.3793,
+   "diff_pct": 1.3916,
+   "price_start": 5.5829,
+   "change_pct": 14.265
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "CE",
+   "price": 6.2538,
+   "diff_pct": -0.6031,
+   "price_start": 5.5917,
+   "change_pct": 11.8408
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "DF",
+   "price": 6.3856,
+   "diff_pct": 1.4917,
+   "price_start": 4.996,
+   "change_pct": 27.8143
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "ES",
+   "price": 6.3665,
+   "diff_pct": 1.1881,
+   "price_start": 5.1961,
+   "change_pct": 22.5246
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "GO",
+   "price": 6.4183,
+   "diff_pct": 2.0114,
+   "price_start": 4.9598,
+   "change_pct": 29.4064
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "MA",
+   "price": 6.0482,
+   "diff_pct": -3.8709,
+   "price_start": 4.953,
+   "change_pct": 22.1119
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "MG",
+   "price": 6.1615,
+   "diff_pct": -2.0701,
+   "price_start": 5.0448,
+   "change_pct": 22.1357
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "MS",
+   "price": 6.1987,
+   "diff_pct": -1.4789,
+   "price_start": 4.9881,
+   "change_pct": 24.2698
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "MT",
+   "price": 6.4216,
+   "diff_pct": 2.0639,
+   "price_start": 5.0638,
+   "change_pct": 26.8139
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "PA",
+   "price": 6.4083,
+   "diff_pct": 1.8525,
+   "price_start": 5.1954,
+   "change_pct": 23.3457
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "PB",
+   "price": 5.9683,
+   "diff_pct": -5.1408,
+   "price_start": 4.8439,
+   "change_pct": 23.2127
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "PE",
+   "price": 6.3522,
+   "diff_pct": 0.9608,
+   "price_start": 5.0185,
+   "change_pct": 26.5757
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "PI",
+   "price": 5.9301,
+   "diff_pct": -5.7479,
+   "price_start": 5.319,
+   "change_pct": 11.489
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "PR",
+   "price": 6.4506,
+   "diff_pct": 2.5248,
+   "price_start": 5.1594,
+   "change_pct": 25.0262
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "RJ",
+   "price": 6.2031,
+   "diff_pct": -1.4089,
+   "price_start": 5.1766,
+   "change_pct": 19.8296
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "RN",
+   "price": 6.0567,
+   "diff_pct": -3.7358,
+   "price_start": 5.2722,
+   "change_pct": 14.8799
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "RO",
+   "price": 6.8856,
+   "diff_pct": 9.4386,
+   "price_start": 5.272,
+   "change_pct": 30.607
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "RR",
+   "price": 6.75,
+   "diff_pct": 7.2834,
+   "price_start": 5.468,
+   "change_pct": 23.4455
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "RS",
+   "price": 6.322,
+   "diff_pct": 0.4808,
+   "price_start": 5.0419,
+   "change_pct": 25.3892
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "SC",
+   "price": 6.3516,
+   "diff_pct": 0.9513,
+   "price_start": 5.2209,
+   "change_pct": 21.6572
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "SE",
+   "price": 6.5013,
+   "diff_pct": 3.3306,
+   "price_start": 5.0717,
+   "change_pct": 28.1878
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "SP",
+   "price": 6.1997,
+   "diff_pct": -1.463,
+   "price_start": 5.0562,
+   "change_pct": 22.6158
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "TO",
+   "price": 6.6033,
+   "diff_pct": 4.9518,
+   "price_start": 5.2727,
+   "change_pct": 25.2356
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "AC",
+   "price": 5.3739,
+   "diff_pct": 18.6217,
+   "price_start": 4.3673,
+   "change_pct": 23.0486
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "AL",
+   "price": 4.9723,
+   "diff_pct": 9.7569,
+   "price_start": 4.1195,
+   "change_pct": 20.7015
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "AM",
+   "price": 5.4758,
+   "diff_pct": 20.871,
+   "price_start": 3.9081,
+   "change_pct": 40.1141
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "AP",
+   "price": 5.7275,
+   "diff_pct": 26.427,
+   "price_start": 5.186,
+   "change_pct": 10.4416
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "BA",
+   "price": 4.7742,
+   "diff_pct": 5.3841,
+   "price_start": 4.4775,
+   "change_pct": 6.6265
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "CE",
+   "price": 4.8612,
+   "diff_pct": 7.3046,
+   "price_start": 4.5849,
+   "change_pct": 6.0263
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "DF",
+   "price": 4.763,
+   "diff_pct": 5.1369,
+   "price_start": 3.9786,
+   "change_pct": 19.7155
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "ES",
+   "price": 4.5442,
+   "diff_pct": 0.3072,
+   "price_start": 4.4011,
+   "change_pct": 3.2515
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "GO",
+   "price": 4.8073,
+   "diff_pct": 6.1148,
+   "price_start": 3.7406,
+   "change_pct": 28.5168
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "MA",
+   "price": 4.9409,
+   "diff_pct": 9.0638,
+   "price_start": 4.4918,
+   "change_pct": 9.9982
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "MG",
+   "price": 4.4578,
+   "diff_pct": -1.6,
+   "price_start": 3.8912,
+   "change_pct": 14.5611
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "MS",
+   "price": 4.053,
+   "diff_pct": -10.5354,
+   "price_start": 3.8976,
+   "change_pct": 3.9871
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "MT",
+   "price": 4.4381,
+   "diff_pct": -2.0348,
+   "price_start": 3.5743,
+   "change_pct": 24.167
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "PA",
+   "price": 4.8113,
+   "diff_pct": 6.2031,
+   "price_start": 4.6583,
+   "change_pct": 3.2845
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "PB",
+   "price": 4.2417,
+   "diff_pct": -6.3701,
+   "price_start": 3.7711,
+   "change_pct": 12.4791
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "PE",
+   "price": 4.5631,
+   "diff_pct": 0.7244,
+   "price_start": 4.0757,
+   "change_pct": 11.9587
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "PI",
+   "price": 4.5372,
+   "diff_pct": 0.1527,
+   "price_start": 4.2378,
+   "change_pct": 7.065
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "PR",
+   "price": 4.5095,
+   "diff_pct": -0.4588,
+   "price_start": 4.1035,
+   "change_pct": 9.894
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "RJ",
+   "price": 4.6997,
+   "diff_pct": 3.7397,
+   "price_start": 4.4926,
+   "change_pct": 4.6098
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "RN",
+   "price": 4.6484,
+   "diff_pct": 2.6073,
+   "price_start": 4.193,
+   "change_pct": 10.861
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "RO",
+   "price": 5.4021,
+   "diff_pct": 19.2442,
+   "price_start": 4.7289,
+   "change_pct": 14.2359
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "RR",
+   "price": 5.1988,
+   "diff_pct": 14.7566,
+   "price_start": 4.8637,
+   "change_pct": 6.8898
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "RS",
+   "price": 4.8876,
+   "diff_pct": 7.8873,
+   "price_start": 4.8527,
+   "change_pct": 0.7192
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "SC",
+   "price": 4.7664,
+   "diff_pct": 5.212,
+   "price_start": 4.5869,
+   "change_pct": 3.9133
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "SE",
+   "price": 4.8019,
+   "diff_pct": 5.9956,
+   "price_start": 4.0672,
+   "change_pct": 18.064
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "SP",
+   "price": 4.248,
+   "diff_pct": -6.231,
+   "price_start": 3.7958,
+   "change_pct": 11.9132
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "TO",
+   "price": 4.8597,
+   "diff_pct": 7.2714,
+   "price_start": 4.3792,
+   "change_pct": 10.9723
+  }
+ ],
+ "regions": [
+  {
+   "fuel": "DIESEL",
+   "region": "Centro-Oeste",
+   "price": 5.979,
+   "vs_cheapest_pct": 0.4367
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Nordeste",
+   "price": 5.9562,
+   "vs_cheapest_pct": 0.0534
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Norte",
+   "price": 6.4,
+   "vs_cheapest_pct": 7.5087
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sudeste",
+   "price": 5.953,
+   "vs_cheapest_pct": 0.0
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sul",
+   "price": 5.958,
+   "vs_cheapest_pct": 0.084
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Centro-Oeste",
+   "price": 5.9615,
+   "vs_cheapest_pct": 1.4921
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Nordeste",
+   "price": 6.038,
+   "vs_cheapest_pct": 2.7948
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Norte",
+   "price": 6.3897,
+   "vs_cheapest_pct": 8.7824
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sudeste",
+   "price": 5.8739,
+   "vs_cheapest_pct": 0.0
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sul",
+   "price": 6.0165,
+   "vs_cheapest_pct": 2.428
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Centro-Oeste",
+   "price": 3.951,
+   "vs_cheapest_pct": 0.0505
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Nordeste",
+   "price": 4.5693,
+   "vs_cheapest_pct": 15.7078
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Norte",
+   "price": 4.7812,
+   "vs_cheapest_pct": 21.0731
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sudeste",
+   "price": 3.949,
+   "vs_cheapest_pct": 0.0
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sul",
+   "price": 4.3908,
+   "vs_cheapest_pct": 11.1858
+  }
+ ]
+}

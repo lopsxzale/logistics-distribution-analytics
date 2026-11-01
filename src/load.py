@@ -1,10 +1,11 @@
-"""Carga dos CSVs brutos da ANP (data/raw/) no banco e geração dos dados do dashboard.
+"""Carga dos CSVs brutos da ANP (data/raw/) no banco e geração dos dados do site.
 
 1. Cria o schema (SQLAlchemy Core — funciona em SQLite e Postgres).
 2. Popula as dimensões e carrega o fato arquivo a arquivo. É idempotente:
    reprocessar um arquivo substitui só os meses/produtos daquele arquivo.
 3. Recalcula o agregado mensal por UF/categoria (só combustíveis em R$/litro).
-4. Exporta os Parquet versionados em data/app/ (ver src/export.py).
+4. Exporta os Parquet versionados em data/app/ (ver src/export.py) e, a partir deles,
+   os JSONs do site em web/src/data/ (ver src/export_web.py).
 
 Uso: python src/load.py
 """
@@ -30,6 +31,7 @@ from sqlalchemy import (
 )
 
 import export
+import export_web
 from db import get_engine
 from referencias import CATEGORIAS_ANALISE, ESTADOS, MAPA_PRODUTO, categoria_de
 from transform import SQL_BASE_AGREGADA, consolidar, ler_csv
@@ -192,7 +194,8 @@ def main() -> int:
             "municipios": int(n_municipios),
         },
     )
-    print("Export do dashboard:")
+    arquivos += export_web.export()
+    print("Export (Parquet + JSONs do site):")
     for caminho in arquivos:
         print(f"  {caminho.relative_to(ROOT_DIR)} ({caminho.stat().st_size / 1024:,.0f} KB)")
     return 0

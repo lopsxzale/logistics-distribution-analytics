@@ -1,8 +1,8 @@
-"""Exporta os dados consolidados que o dashboard consome (data/app/, versionado no git).
+"""Exporta os painéis mensais consolidados (data/app/, versionados no git).
 
-O banco completo (~170 MB) não cabe no GitHub nem é necessário para o app: o
-dashboard só precisa de painéis mensais por UF, que somam poucas centenas de KB
-em Parquet. Isso também torna o deploy no Streamlit Cloud trivial.
+O banco completo (~170 MB) não cabe no GitHub nem é necessário para o site: as
+análises só precisam de painéis mensais por UF, que somam poucas centenas de KB
+em Parquet. src/export_web.py lê esses Parquets e gera os JSONs do site.
 
 Uso isolado (com o banco já carregado): python src/export.py
 """

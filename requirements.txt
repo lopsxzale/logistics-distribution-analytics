@@ -1,6 +1,11 @@
-# Dependências do dashboard (é o que o Streamlit Community Cloud instala).
-# Pipeline de dados, notebook e testes: requirements-dev.txt
-streamlit>=1.56
+# Pipeline de dados (extract -> load -> export), métricas e testes.
 pandas>=2.2
-plotly>=6.0
 pyarrow>=17.0
+requests>=2.31
+sqlalchemy>=2.0
+psycopg2-binary>=2.9
+python-dotenv>=1.0
+
+# Qualidade
+pytest>=8.0
+ruff>=0.6

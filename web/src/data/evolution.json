@@ -1,0 +1,3894 @@
+{
+ "national": [
+  {
+   "fuel": "DIESEL",
+   "month": "2023-01",
+   "price": 6.411,
+   "index": 100.0
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2023-02",
+   "price": 6.1486,
+   "index": 95.9069
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2023-03",
+   "price": 5.9505,
+   "index": 92.8169
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2023-04",
+   "price": 5.815,
+   "index": 90.7037
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2023-05",
+   "price": 5.4391,
+   "index": 84.8395
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2023-06",
+   "price": 5.0917,
+   "index": 79.4214
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2023-07",
+   "price": 5.0209,
+   "index": 78.3166
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2023-08",
+   "price": 5.5962,
+   "index": 87.2905
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2023-09",
+   "price": 6.1722,
+   "index": 96.2743
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2023-10",
+   "price": 6.1894,
+   "index": 96.5431
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2023-11",
+   "price": 6.186,
+   "index": 96.49
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2023-12",
+   "price": 6.0321,
+   "index": 94.0903
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2024-01",
+   "price": 5.9625,
+   "index": 93.004
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2024-02",
+   "price": 5.9966,
+   "index": 93.5366
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2024-03",
+   "price": 5.9592,
+   "index": 92.952
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2024-04",
+   "price": 5.9741,
+   "index": 93.1853
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2024-05",
+   "price": 5.9772,
+   "index": 93.2339
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2024-06",
+   "price": 5.9649,
+   "index": 93.041
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2024-07",
+   "price": 6.0279,
+   "index": 94.0239
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2024-08",
+   "price": 6.039,
+   "index": 94.1975
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2024-09",
+   "price": 6.0283,
+   "index": 94.0311
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2024-10",
+   "price": 6.0382,
+   "index": 94.1846
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2024-11",
+   "price": 6.059,
+   "index": 94.5097
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2024-12",
+   "price": 6.1215,
+   "index": 95.4844
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2025-01",
+   "price": 6.1652,
+   "index": 96.1653
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2025-02",
+   "price": 6.4603,
+   "index": 100.7686
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2025-03",
+   "price": 6.4362,
+   "index": 100.393
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2025-04",
+   "price": 6.3235,
+   "index": 98.6348
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2025-05",
+   "price": 6.1706,
+   "index": 96.2504
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2025-06",
+   "price": 6.0746,
+   "index": 94.7532
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2025-07",
+   "price": 6.083,
+   "index": 94.8842
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2025-08",
+   "price": 6.1027,
+   "index": 95.1914
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2025-09",
+   "price": 6.0973,
+   "index": 95.1059
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2025-10",
+   "price": 6.083,
+   "index": 94.8829
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2025-11",
+   "price": 6.0893,
+   "index": 94.982
+  },
+  {
+   "fuel": "DIESEL",
+   "month": "2025-12",
+   "price": 6.0941,
+   "index": 95.0568
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2023-01",
+   "price": 4.0713,
+   "index": 100.0
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2023-02",
+   "price": 4.0161,
+   "index": 98.6428
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2023-03",
+   "price": 4.1314,
+   "index": 101.4764
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2023-04",
+   "price": 4.1638,
+   "index": 102.2708
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2023-05",
+   "price": 4.1787,
+   "index": 102.638
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2023-06",
+   "price": 4.0063,
+   "index": 98.4035
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2023-07",
+   "price": 4.0758,
+   "index": 100.1104
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2023-08",
+   "price": 3.9441,
+   "index": 96.8737
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2023-09",
+   "price": 3.9491,
+   "index": 96.9968
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2023-10",
+   "price": 3.9004,
+   "index": 95.8014
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2023-11",
+   "price": 3.8493,
+   "index": 94.5462
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2023-12",
+   "price": 3.777,
+   "index": 92.7696
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2024-01",
+   "price": 3.702,
+   "index": 90.928
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2024-02",
+   "price": 3.813,
+   "index": 93.6539
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2024-03",
+   "price": 3.8273,
+   "index": 94.0058
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2024-04",
+   "price": 3.9968,
+   "index": 98.1696
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2024-05",
+   "price": 4.0604,
+   "index": 99.7303
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2024-06",
+   "price": 4.0479,
+   "index": 99.4236
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2024-07",
+   "price": 4.2238,
+   "index": 103.7441
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2024-08",
+   "price": 4.2807,
+   "index": 105.1435
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2024-09",
+   "price": 4.2538,
+   "index": 104.4811
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2024-10",
+   "price": 4.2325,
+   "index": 103.9586
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2024-11",
+   "price": 4.2359,
+   "index": 104.0426
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2024-12",
+   "price": 4.2737,
+   "index": 104.9707
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2025-01",
+   "price": 4.3686,
+   "index": 107.3009
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2025-02",
+   "price": 4.5455,
+   "index": 111.6467
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2025-03",
+   "price": 4.5426,
+   "index": 111.5746
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2025-04",
+   "price": 4.5064,
+   "index": 110.6864
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2025-05",
+   "price": 4.4836,
+   "index": 110.1258
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2025-06",
+   "price": 4.4202,
+   "index": 108.5676
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2025-07",
+   "price": 4.3763,
+   "index": 107.4912
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2025-08",
+   "price": 4.3656,
+   "index": 107.2288
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2025-09",
+   "price": 4.4232,
+   "index": 108.6432
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2025-10",
+   "price": 4.4494,
+   "index": 109.286
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2025-11",
+   "price": 4.4443,
+   "index": 109.1596
+  },
+  {
+   "fuel": "ETANOL",
+   "month": "2025-12",
+   "price": 4.5303,
+   "index": 111.2726
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2023-01",
+   "price": 5.1274,
+   "index": 100.0
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2023-02",
+   "price": 5.1826,
+   "index": 101.0765
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2023-03",
+   "price": 5.5947,
+   "index": 109.1151
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2023-04",
+   "price": 5.5857,
+   "index": 108.9397
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2023-05",
+   "price": 5.4824,
+   "index": 106.9237
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2023-06",
+   "price": 5.4709,
+   "index": 106.7007
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2023-07",
+   "price": 5.6874,
+   "index": 110.9222
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2023-08",
+   "price": 5.7901,
+   "index": 112.9262
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2023-09",
+   "price": 5.9164,
+   "index": 115.3894
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2023-10",
+   "price": 5.8424,
+   "index": 113.9461
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2023-11",
+   "price": 5.7582,
+   "index": 112.3042
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2023-12",
+   "price": 5.7186,
+   "index": 111.5317
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2024-01",
+   "price": 5.6933,
+   "index": 111.0369
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2024-02",
+   "price": 5.8561,
+   "index": 114.212
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2024-03",
+   "price": 5.8467,
+   "index": 114.0287
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2024-04",
+   "price": 5.9037,
+   "index": 115.1411
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2024-05",
+   "price": 5.9541,
+   "index": 116.124
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2024-06",
+   "price": 5.9473,
+   "index": 115.9915
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2024-07",
+   "price": 6.1188,
+   "index": 119.3371
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2024-08",
+   "price": 6.1995,
+   "index": 120.9101
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2024-09",
+   "price": 6.1764,
+   "index": 120.4598
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2024-10",
+   "price": 6.1871,
+   "index": 120.6683
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2024-11",
+   "price": 6.192,
+   "index": 120.7637
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2024-12",
+   "price": 6.2299,
+   "index": 121.5032
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2025-01",
+   "price": 6.2693,
+   "index": 122.2713
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2025-02",
+   "price": 6.4501,
+   "index": 125.7981
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2025-03",
+   "price": 6.433,
+   "index": 125.4636
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2025-04",
+   "price": 6.4005,
+   "index": 124.8294
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2025-05",
+   "price": 6.3696,
+   "index": 124.2282
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2025-06",
+   "price": 6.3145,
+   "index": 123.1521
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2025-07",
+   "price": 6.3013,
+   "index": 122.895
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2025-08",
+   "price": 6.2781,
+   "index": 122.4439
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2025-09",
+   "price": 6.2866,
+   "index": 122.6094
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2025-10",
+   "price": 6.3052,
+   "index": 122.9722
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2025-11",
+   "price": 6.2764,
+   "index": 122.41
+  },
+  {
+   "fuel": "GASOLINA",
+   "month": "2025-12",
+   "price": 6.2917,
+   "index": 122.7092
+  }
+ ],
+ "regional": [
+  {
+   "fuel": "DIESEL",
+   "region": "Centro-Oeste",
+   "month": "2023-01",
+   "price": 6.3966
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Centro-Oeste",
+   "month": "2023-02",
+   "price": 6.1602
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Centro-Oeste",
+   "month": "2023-03",
+   "price": 5.9682
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Centro-Oeste",
+   "month": "2023-04",
+   "price": 5.8387
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Centro-Oeste",
+   "month": "2023-05",
+   "price": 5.4053
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Centro-Oeste",
+   "month": "2023-06",
+   "price": 5.0611
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Centro-Oeste",
+   "month": "2023-07",
+   "price": 4.9768
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Centro-Oeste",
+   "month": "2023-08",
+   "price": 5.6771
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Centro-Oeste",
+   "month": "2023-09",
+   "price": 6.3328
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Centro-Oeste",
+   "month": "2023-10",
+   "price": 6.2555
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Centro-Oeste",
+   "month": "2023-11",
+   "price": 6.2135
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Centro-Oeste",
+   "month": "2023-12",
+   "price": 6.0082
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Centro-Oeste",
+   "month": "2024-01",
+   "price": 5.8999
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Centro-Oeste",
+   "month": "2024-02",
+   "price": 5.968
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Centro-Oeste",
+   "month": "2024-03",
+   "price": 5.9385
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Centro-Oeste",
+   "month": "2024-04",
+   "price": 5.9384
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Centro-Oeste",
+   "month": "2024-05",
+   "price": 5.9417
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Centro-Oeste",
+   "month": "2024-06",
+   "price": 5.9259
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Centro-Oeste",
+   "month": "2024-07",
+   "price": 5.9834
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Centro-Oeste",
+   "month": "2024-08",
+   "price": 5.9993
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Centro-Oeste",
+   "month": "2024-09",
+   "price": 5.9985
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Centro-Oeste",
+   "month": "2024-10",
+   "price": 6.0059
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Centro-Oeste",
+   "month": "2024-11",
+   "price": 5.997
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Centro-Oeste",
+   "month": "2024-12",
+   "price": 6.0636
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Centro-Oeste",
+   "month": "2025-01",
+   "price": 6.1314
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Centro-Oeste",
+   "month": "2025-02",
+   "price": 6.4722
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Centro-Oeste",
+   "month": "2025-03",
+   "price": 6.4435
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Centro-Oeste",
+   "month": "2025-04",
+   "price": 6.2986
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Centro-Oeste",
+   "month": "2025-05",
+   "price": 6.106
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Centro-Oeste",
+   "month": "2025-06",
+   "price": 6.0028
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Centro-Oeste",
+   "month": "2025-07",
+   "price": 6.0331
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Centro-Oeste",
+   "month": "2025-08",
+   "price": 6.1034
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Centro-Oeste",
+   "month": "2025-09",
+   "price": 6.1099
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Centro-Oeste",
+   "month": "2025-10",
+   "price": 6.0639
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Centro-Oeste",
+   "month": "2025-11",
+   "price": 6.0854
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Centro-Oeste",
+   "month": "2025-12",
+   "price": 6.0739
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Nordeste",
+   "month": "2023-01",
+   "price": 6.4998
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Nordeste",
+   "month": "2023-02",
+   "price": 6.2233
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Nordeste",
+   "month": "2023-03",
+   "price": 5.9834
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Nordeste",
+   "month": "2023-04",
+   "price": 5.8226
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Nordeste",
+   "month": "2023-05",
+   "price": 5.3365
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Nordeste",
+   "month": "2023-06",
+   "price": 5.0051
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Nordeste",
+   "month": "2023-07",
+   "price": 4.9731
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Nordeste",
+   "month": "2023-08",
+   "price": 5.6323
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Nordeste",
+   "month": "2023-09",
+   "price": 6.1995
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Nordeste",
+   "month": "2023-10",
+   "price": 6.2114
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Nordeste",
+   "month": "2023-11",
+   "price": 6.1145
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Nordeste",
+   "month": "2023-12",
+   "price": 5.9258
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Nordeste",
+   "month": "2024-01",
+   "price": 5.8974
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Nordeste",
+   "month": "2024-02",
+   "price": 5.9737
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Nordeste",
+   "month": "2024-03",
+   "price": 5.8813
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Nordeste",
+   "month": "2024-04",
+   "price": 5.9383
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Nordeste",
+   "month": "2024-05",
+   "price": 5.9459
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Nordeste",
+   "month": "2024-06",
+   "price": 5.9138
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Nordeste",
+   "month": "2024-07",
+   "price": 6.0435
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Nordeste",
+   "month": "2024-08",
+   "price": 6.0357
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Nordeste",
+   "month": "2024-09",
+   "price": 6.0008
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Nordeste",
+   "month": "2024-10",
+   "price": 6.0094
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Nordeste",
+   "month": "2024-11",
+   "price": 6.0191
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Nordeste",
+   "month": "2024-12",
+   "price": 6.1341
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Nordeste",
+   "month": "2025-01",
+   "price": 6.2174
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Nordeste",
+   "month": "2025-02",
+   "price": 6.4432
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Nordeste",
+   "month": "2025-03",
+   "price": 6.388
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Nordeste",
+   "month": "2025-04",
+   "price": 6.2346
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Nordeste",
+   "month": "2025-05",
+   "price": 6.0692
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Nordeste",
+   "month": "2025-06",
+   "price": 5.9744
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Nordeste",
+   "month": "2025-07",
+   "price": 5.9888
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Nordeste",
+   "month": "2025-08",
+   "price": 5.9928
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Nordeste",
+   "month": "2025-09",
+   "price": 5.9671
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Nordeste",
+   "month": "2025-10",
+   "price": 5.9625
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Nordeste",
+   "month": "2025-11",
+   "price": 6.0151
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Nordeste",
+   "month": "2025-12",
+   "price": 6.0343
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Norte",
+   "month": "2023-01",
+   "price": 6.7739
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Norte",
+   "month": "2023-02",
+   "price": 6.5469
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Norte",
+   "month": "2023-03",
+   "price": 6.4048
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Norte",
+   "month": "2023-04",
+   "price": 6.3253
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Norte",
+   "month": "2023-05",
+   "price": 5.8558
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Norte",
+   "month": "2023-06",
+   "price": 5.4346
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Norte",
+   "month": "2023-07",
+   "price": 5.3847
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Norte",
+   "month": "2023-08",
+   "price": 5.935
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Norte",
+   "month": "2023-09",
+   "price": 6.5152
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Norte",
+   "month": "2023-10",
+   "price": 6.5812
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Norte",
+   "month": "2023-11",
+   "price": 6.5903
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Norte",
+   "month": "2023-12",
+   "price": 6.4611
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Norte",
+   "month": "2024-01",
+   "price": 6.3828
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Norte",
+   "month": "2024-02",
+   "price": 6.4031
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Norte",
+   "month": "2024-03",
+   "price": 6.37
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Norte",
+   "month": "2024-04",
+   "price": 6.3376
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Norte",
+   "month": "2024-05",
+   "price": 6.3312
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Norte",
+   "month": "2024-06",
+   "price": 6.3125
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Norte",
+   "month": "2024-07",
+   "price": 6.4301
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Norte",
+   "month": "2024-08",
+   "price": 6.4804
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Norte",
+   "month": "2024-09",
+   "price": 6.4377
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Norte",
+   "month": "2024-10",
+   "price": 6.5301
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Norte",
+   "month": "2024-11",
+   "price": 6.5441
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Norte",
+   "month": "2024-12",
+   "price": 6.621
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Norte",
+   "month": "2025-01",
+   "price": 6.6343
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Norte",
+   "month": "2025-02",
+   "price": 6.8553
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Norte",
+   "month": "2025-03",
+   "price": 6.8292
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Norte",
+   "month": "2025-04",
+   "price": 6.7415
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Norte",
+   "month": "2025-05",
+   "price": 6.6403
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Norte",
+   "month": "2025-06",
+   "price": 6.5256
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Norte",
+   "month": "2025-07",
+   "price": 6.5429
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Norte",
+   "month": "2025-08",
+   "price": 6.4946
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Norte",
+   "month": "2025-09",
+   "price": 6.4813
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Norte",
+   "month": "2025-10",
+   "price": 6.4673
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Norte",
+   "month": "2025-11",
+   "price": 6.4686
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Norte",
+   "month": "2025-12",
+   "price": 6.4693
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sudeste",
+   "month": "2023-01",
+   "price": 6.3464
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sudeste",
+   "month": "2023-02",
+   "price": 6.0833
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sudeste",
+   "month": "2023-03",
+   "price": 5.9039
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sudeste",
+   "month": "2023-04",
+   "price": 5.7682
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sudeste",
+   "month": "2023-05",
+   "price": 5.4283
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sudeste",
+   "month": "2023-06",
+   "price": 5.0773
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sudeste",
+   "month": "2023-07",
+   "price": 4.9939
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sudeste",
+   "month": "2023-08",
+   "price": 5.523
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sudeste",
+   "month": "2023-09",
+   "price": 6.1068
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sudeste",
+   "month": "2023-10",
+   "price": 6.1363
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sudeste",
+   "month": "2023-11",
+   "price": 6.1768
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sudeste",
+   "month": "2023-12",
+   "price": 6.0293
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sudeste",
+   "month": "2024-01",
+   "price": 5.9368
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sudeste",
+   "month": "2024-02",
+   "price": 5.9463
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sudeste",
+   "month": "2024-03",
+   "price": 5.9311
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sudeste",
+   "month": "2024-04",
+   "price": 5.9302
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sudeste",
+   "month": "2024-05",
+   "price": 5.9309
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sudeste",
+   "month": "2024-06",
+   "price": 5.9325
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sudeste",
+   "month": "2024-07",
+   "price": 5.9692
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sudeste",
+   "month": "2024-08",
+   "price": 5.9814
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sudeste",
+   "month": "2024-09",
+   "price": 5.9784
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sudeste",
+   "month": "2024-10",
+   "price": 5.9775
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sudeste",
+   "month": "2024-11",
+   "price": 6.0063
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sudeste",
+   "month": "2024-12",
+   "price": 6.0564
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sudeste",
+   "month": "2025-01",
+   "price": 6.088
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sudeste",
+   "month": "2025-02",
+   "price": 6.391
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sudeste",
+   "month": "2025-03",
+   "price": 6.384
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sudeste",
+   "month": "2025-04",
+   "price": 6.2861
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sudeste",
+   "month": "2025-05",
+   "price": 6.14
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sudeste",
+   "month": "2025-06",
+   "price": 6.0518
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sudeste",
+   "month": "2025-07",
+   "price": 6.0431
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sudeste",
+   "month": "2025-08",
+   "price": 6.07
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sudeste",
+   "month": "2025-09",
+   "price": 6.0644
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sudeste",
+   "month": "2025-10",
+   "price": 6.0507
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sudeste",
+   "month": "2025-11",
+   "price": 6.0514
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sudeste",
+   "month": "2025-12",
+   "price": 6.0652
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sul",
+   "month": "2023-01",
+   "price": 6.3138
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sul",
+   "month": "2023-02",
+   "price": 6.0311
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sul",
+   "month": "2023-03",
+   "price": 5.7953
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sul",
+   "month": "2023-04",
+   "price": 5.6856
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sul",
+   "month": "2023-05",
+   "price": 5.3903
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sul",
+   "month": "2023-06",
+   "price": 5.077
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sul",
+   "month": "2023-07",
+   "price": 4.9856
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sul",
+   "month": "2023-08",
+   "price": 5.5377
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sul",
+   "month": "2023-09",
+   "price": 6.0778
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sul",
+   "month": "2023-10",
+   "price": 6.0902
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sul",
+   "month": "2023-11",
+   "price": 6.108
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sul",
+   "month": "2023-12",
+   "price": 5.9736
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sul",
+   "month": "2024-01",
+   "price": 5.9185
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sul",
+   "month": "2024-02",
+   "price": 5.9572
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sul",
+   "month": "2024-03",
+   "price": 5.9321
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sul",
+   "month": "2024-04",
+   "price": 5.9557
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sul",
+   "month": "2024-05",
+   "price": 5.9654
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sul",
+   "month": "2024-06",
+   "price": 5.9558
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sul",
+   "month": "2024-07",
+   "price": 6.0097
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sul",
+   "month": "2024-08",
+   "price": 6.0126
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sul",
+   "month": "2024-09",
+   "price": 6.0209
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sul",
+   "month": "2024-10",
+   "price": 6.0167
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sul",
+   "month": "2024-11",
+   "price": 6.0527
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sul",
+   "month": "2024-12",
+   "price": 6.0863
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sul",
+   "month": "2025-01",
+   "price": 6.1154
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sul",
+   "month": "2025-02",
+   "price": 6.4531
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sul",
+   "month": "2025-03",
+   "price": 6.4315
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sul",
+   "month": "2025-04",
+   "price": 6.3296
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sul",
+   "month": "2025-05",
+   "price": 6.1773
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sul",
+   "month": "2025-06",
+   "price": 6.0791
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sul",
+   "month": "2025-07",
+   "price": 6.0779
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sul",
+   "month": "2025-08",
+   "price": 6.091
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sul",
+   "month": "2025-09",
+   "price": 6.0903
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sul",
+   "month": "2025-10",
+   "price": 6.0802
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sul",
+   "month": "2025-11",
+   "price": 6.0844
+  },
+  {
+   "fuel": "DIESEL",
+   "region": "Sul",
+   "month": "2025-12",
+   "price": 6.0802
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Centro-Oeste",
+   "month": "2023-01",
+   "price": 3.7677
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Centro-Oeste",
+   "month": "2023-02",
+   "price": 3.7325
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Centro-Oeste",
+   "month": "2023-03",
+   "price": 3.9532
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Centro-Oeste",
+   "month": "2023-04",
+   "price": 3.9818
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Centro-Oeste",
+   "month": "2023-05",
+   "price": 3.9647
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Centro-Oeste",
+   "month": "2023-06",
+   "price": 3.7359
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Centro-Oeste",
+   "month": "2023-07",
+   "price": 3.7418
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Centro-Oeste",
+   "month": "2023-08",
+   "price": 3.5903
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Centro-Oeste",
+   "month": "2023-09",
+   "price": 3.6368
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Centro-Oeste",
+   "month": "2023-10",
+   "price": 3.5768
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Centro-Oeste",
+   "month": "2023-11",
+   "price": 3.5204
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Centro-Oeste",
+   "month": "2023-12",
+   "price": 3.4366
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Centro-Oeste",
+   "month": "2024-01",
+   "price": 3.4328
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Centro-Oeste",
+   "month": "2024-02",
+   "price": 3.611
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Centro-Oeste",
+   "month": "2024-03",
+   "price": 3.5839
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Centro-Oeste",
+   "month": "2024-04",
+   "price": 3.8143
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Centro-Oeste",
+   "month": "2024-05",
+   "price": 3.7655
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Centro-Oeste",
+   "month": "2024-06",
+   "price": 3.7909
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Centro-Oeste",
+   "month": "2024-07",
+   "price": 3.99
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Centro-Oeste",
+   "month": "2024-08",
+   "price": 3.9689
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Centro-Oeste",
+   "month": "2024-09",
+   "price": 4.0357
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Centro-Oeste",
+   "month": "2024-10",
+   "price": 4.0201
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Centro-Oeste",
+   "month": "2024-11",
+   "price": 3.97
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Centro-Oeste",
+   "month": "2024-12",
+   "price": 4.1255
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Centro-Oeste",
+   "month": "2025-01",
+   "price": 4.2451
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Centro-Oeste",
+   "month": "2025-02",
+   "price": 4.4079
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Centro-Oeste",
+   "month": "2025-03",
+   "price": 4.3713
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Centro-Oeste",
+   "month": "2025-04",
+   "price": 4.3252
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Centro-Oeste",
+   "month": "2025-05",
+   "price": 4.3737
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Centro-Oeste",
+   "month": "2025-06",
+   "price": 4.2794
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Centro-Oeste",
+   "month": "2025-07",
+   "price": 4.1542
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Centro-Oeste",
+   "month": "2025-08",
+   "price": 4.1917
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Centro-Oeste",
+   "month": "2025-09",
+   "price": 4.3037
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Centro-Oeste",
+   "month": "2025-10",
+   "price": 4.4488
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Centro-Oeste",
+   "month": "2025-11",
+   "price": 4.4608
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Centro-Oeste",
+   "month": "2025-12",
+   "price": 4.6298
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Nordeste",
+   "month": "2023-01",
+   "price": 4.2762
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Nordeste",
+   "month": "2023-02",
+   "price": 4.2947
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Nordeste",
+   "month": "2023-03",
+   "price": 4.4514
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Nordeste",
+   "month": "2023-04",
+   "price": 4.4231
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Nordeste",
+   "month": "2023-05",
+   "price": 4.4147
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Nordeste",
+   "month": "2023-06",
+   "price": 4.4105
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Nordeste",
+   "month": "2023-07",
+   "price": 4.6101
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Nordeste",
+   "month": "2023-08",
+   "price": 4.5721
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Nordeste",
+   "month": "2023-09",
+   "price": 4.5135
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Nordeste",
+   "month": "2023-10",
+   "price": 4.4002
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Nordeste",
+   "month": "2023-11",
+   "price": 4.2953
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Nordeste",
+   "month": "2023-12",
+   "price": 4.2003
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Nordeste",
+   "month": "2024-01",
+   "price": 4.1401
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Nordeste",
+   "month": "2024-02",
+   "price": 4.237
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Nordeste",
+   "month": "2024-03",
+   "price": 4.2547
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Nordeste",
+   "month": "2024-04",
+   "price": 4.4346
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Nordeste",
+   "month": "2024-05",
+   "price": 4.5288
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Nordeste",
+   "month": "2024-06",
+   "price": 4.5416
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Nordeste",
+   "month": "2024-07",
+   "price": 4.7135
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Nordeste",
+   "month": "2024-08",
+   "price": 4.7875
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Nordeste",
+   "month": "2024-09",
+   "price": 4.7055
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Nordeste",
+   "month": "2024-10",
+   "price": 4.6263
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Nordeste",
+   "month": "2024-11",
+   "price": 4.5485
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Nordeste",
+   "month": "2024-12",
+   "price": 4.5714
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Nordeste",
+   "month": "2025-01",
+   "price": 4.688
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Nordeste",
+   "month": "2025-02",
+   "price": 4.9272
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Nordeste",
+   "month": "2025-03",
+   "price": 4.9175
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Nordeste",
+   "month": "2025-04",
+   "price": 4.9192
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Nordeste",
+   "month": "2025-05",
+   "price": 4.908
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Nordeste",
+   "month": "2025-06",
+   "price": 4.9072
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Nordeste",
+   "month": "2025-07",
+   "price": 4.8991
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Nordeste",
+   "month": "2025-08",
+   "price": 4.8875
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Nordeste",
+   "month": "2025-09",
+   "price": 4.8537
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Nordeste",
+   "month": "2025-10",
+   "price": 4.8214
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Nordeste",
+   "month": "2025-11",
+   "price": 4.7152
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Nordeste",
+   "month": "2025-12",
+   "price": 4.7062
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Norte",
+   "month": "2023-01",
+   "price": 4.3931
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Norte",
+   "month": "2023-02",
+   "price": 4.3855
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Norte",
+   "month": "2023-03",
+   "price": 4.633
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Norte",
+   "month": "2023-04",
+   "price": 4.7175
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Norte",
+   "month": "2023-05",
+   "price": 4.7697
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Norte",
+   "month": "2023-06",
+   "price": 4.6518
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Norte",
+   "month": "2023-07",
+   "price": 4.7928
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Norte",
+   "month": "2023-08",
+   "price": 4.7919
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Norte",
+   "month": "2023-09",
+   "price": 4.7938
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Norte",
+   "month": "2023-10",
+   "price": 4.7299
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Norte",
+   "month": "2023-11",
+   "price": 4.6314
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Norte",
+   "month": "2023-12",
+   "price": 4.5374
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Norte",
+   "month": "2024-01",
+   "price": 4.39
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Norte",
+   "month": "2024-02",
+   "price": 4.3696
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Norte",
+   "month": "2024-03",
+   "price": 4.37
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Norte",
+   "month": "2024-04",
+   "price": 4.4304
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Norte",
+   "month": "2024-05",
+   "price": 4.496
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Norte",
+   "month": "2024-06",
+   "price": 4.4878
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Norte",
+   "month": "2024-07",
+   "price": 4.6487
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Norte",
+   "month": "2024-08",
+   "price": 4.7926
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Norte",
+   "month": "2024-09",
+   "price": 4.7694
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Norte",
+   "month": "2024-10",
+   "price": 4.8186
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Norte",
+   "month": "2024-11",
+   "price": 4.8606
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Norte",
+   "month": "2024-12",
+   "price": 4.9089
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Norte",
+   "month": "2025-01",
+   "price": 4.9324
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Norte",
+   "month": "2025-02",
+   "price": 5.091
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Norte",
+   "month": "2025-03",
+   "price": 5.1264
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Norte",
+   "month": "2025-04",
+   "price": 5.1011
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Norte",
+   "month": "2025-05",
+   "price": 5.0828
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Norte",
+   "month": "2025-06",
+   "price": 5.0767
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Norte",
+   "month": "2025-07",
+   "price": 5.073
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Norte",
+   "month": "2025-08",
+   "price": 5.039
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Norte",
+   "month": "2025-09",
+   "price": 5.0873
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Norte",
+   "month": "2025-10",
+   "price": 5.1102
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Norte",
+   "month": "2025-11",
+   "price": 5.1229
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Norte",
+   "month": "2025-12",
+   "price": 5.1577
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sudeste",
+   "month": "2023-01",
+   "price": 3.9448
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sudeste",
+   "month": "2023-02",
+   "price": 3.8612
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sudeste",
+   "month": "2023-03",
+   "price": 3.9518
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sudeste",
+   "month": "2023-04",
+   "price": 4.0127
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sudeste",
+   "month": "2023-05",
+   "price": 4.0064
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sudeste",
+   "month": "2023-06",
+   "price": 3.787
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sudeste",
+   "month": "2023-07",
+   "price": 3.8056
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sudeste",
+   "month": "2023-08",
+   "price": 3.6318
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sudeste",
+   "month": "2023-09",
+   "price": 3.6489
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sudeste",
+   "month": "2023-10",
+   "price": 3.6226
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sudeste",
+   "month": "2023-11",
+   "price": 3.6055
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sudeste",
+   "month": "2023-12",
+   "price": 3.5371
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sudeste",
+   "month": "2024-01",
+   "price": 3.4401
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sudeste",
+   "month": "2024-02",
+   "price": 3.5763
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sudeste",
+   "month": "2024-03",
+   "price": 3.592
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sudeste",
+   "month": "2024-04",
+   "price": 3.7844
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sudeste",
+   "month": "2024-05",
+   "price": 3.8523
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sudeste",
+   "month": "2024-06",
+   "price": 3.8298
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sudeste",
+   "month": "2024-07",
+   "price": 4.011
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sudeste",
+   "month": "2024-08",
+   "price": 4.085
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sudeste",
+   "month": "2024-09",
+   "price": 4.0452
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sudeste",
+   "month": "2024-10",
+   "price": 4.0331
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sudeste",
+   "month": "2024-11",
+   "price": 4.0612
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sudeste",
+   "month": "2024-12",
+   "price": 4.0903
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sudeste",
+   "month": "2025-01",
+   "price": 4.1818
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sudeste",
+   "month": "2025-02",
+   "price": 4.3444
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sudeste",
+   "month": "2025-03",
+   "price": 4.3329
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sudeste",
+   "month": "2025-04",
+   "price": 4.2798
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sudeste",
+   "month": "2025-05",
+   "price": 4.248
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sudeste",
+   "month": "2025-06",
+   "price": 4.1669
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sudeste",
+   "month": "2025-07",
+   "price": 4.119
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sudeste",
+   "month": "2025-08",
+   "price": 4.1117
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sudeste",
+   "month": "2025-09",
+   "price": 4.1997
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sudeste",
+   "month": "2025-10",
+   "price": 4.2203
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sudeste",
+   "month": "2025-11",
+   "price": 4.2427
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sudeste",
+   "month": "2025-12",
+   "price": 4.3621
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sul",
+   "month": "2023-01",
+   "price": 4.3781
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sul",
+   "month": "2023-02",
+   "price": 4.306
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sul",
+   "month": "2023-03",
+   "price": 4.3911
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sul",
+   "month": "2023-04",
+   "price": 4.3746
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sul",
+   "month": "2023-05",
+   "price": 4.4709
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sul",
+   "month": "2023-06",
+   "price": 4.3486
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sul",
+   "month": "2023-07",
+   "price": 4.3812
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sul",
+   "month": "2023-08",
+   "price": 4.2352
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sul",
+   "month": "2023-09",
+   "price": 4.232
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sul",
+   "month": "2023-10",
+   "price": 4.1953
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sul",
+   "month": "2023-11",
+   "price": 4.1017
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sul",
+   "month": "2023-12",
+   "price": 4.0528
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sul",
+   "month": "2024-01",
+   "price": 3.9924
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sul",
+   "month": "2024-02",
+   "price": 4.0722
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sul",
+   "month": "2024-03",
+   "price": 4.0809
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sul",
+   "month": "2024-04",
+   "price": 4.1419
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sul",
+   "month": "2024-05",
+   "price": 4.1857
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sul",
+   "month": "2024-06",
+   "price": 4.2
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sul",
+   "month": "2024-07",
+   "price": 4.3721
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sul",
+   "month": "2024-08",
+   "price": 4.363
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sul",
+   "month": "2024-09",
+   "price": 4.4211
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sul",
+   "month": "2024-10",
+   "price": 4.4203
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sul",
+   "month": "2024-11",
+   "price": 4.4557
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sul",
+   "month": "2024-12",
+   "price": 4.5071
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sul",
+   "month": "2025-01",
+   "price": 4.5351
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sul",
+   "month": "2025-02",
+   "price": 4.7151
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sul",
+   "month": "2025-03",
+   "price": 4.7244
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sul",
+   "month": "2025-04",
+   "price": 4.6902
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sul",
+   "month": "2025-05",
+   "price": 4.6605
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sul",
+   "month": "2025-06",
+   "price": 4.6127
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sul",
+   "month": "2025-07",
+   "price": 4.5926
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sul",
+   "month": "2025-08",
+   "price": 4.579
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sul",
+   "month": "2025-09",
+   "price": 4.579
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sul",
+   "month": "2025-10",
+   "price": 4.5799
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sul",
+   "month": "2025-11",
+   "price": 4.6078
+  },
+  {
+   "fuel": "ETANOL",
+   "region": "Sul",
+   "month": "2025-12",
+   "price": 4.6719
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Centro-Oeste",
+   "month": "2023-01",
+   "price": 4.9946
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Centro-Oeste",
+   "month": "2023-02",
+   "price": 5.043
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Centro-Oeste",
+   "month": "2023-03",
+   "price": 5.5143
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Centro-Oeste",
+   "month": "2023-04",
+   "price": 5.5459
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Centro-Oeste",
+   "month": "2023-05",
+   "price": 5.4367
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Centro-Oeste",
+   "month": "2023-06",
+   "price": 5.4362
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Centro-Oeste",
+   "month": "2023-07",
+   "price": 5.6075
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Centro-Oeste",
+   "month": "2023-08",
+   "price": 5.6958
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Centro-Oeste",
+   "month": "2023-09",
+   "price": 5.8345
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Centro-Oeste",
+   "month": "2023-10",
+   "price": 5.7634
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Centro-Oeste",
+   "month": "2023-11",
+   "price": 5.6715
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Centro-Oeste",
+   "month": "2023-12",
+   "price": 5.6249
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Centro-Oeste",
+   "month": "2024-01",
+   "price": 5.6574
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Centro-Oeste",
+   "month": "2024-02",
+   "price": 5.906
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Centro-Oeste",
+   "month": "2024-03",
+   "price": 5.8693
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Centro-Oeste",
+   "month": "2024-04",
+   "price": 5.9237
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Centro-Oeste",
+   "month": "2024-05",
+   "price": 5.8676
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Centro-Oeste",
+   "month": "2024-06",
+   "price": 5.9085
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Centro-Oeste",
+   "month": "2024-07",
+   "price": 6.0851
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Centro-Oeste",
+   "month": "2024-08",
+   "price": 6.0773
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Centro-Oeste",
+   "month": "2024-09",
+   "price": 6.1601
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Centro-Oeste",
+   "month": "2024-10",
+   "price": 6.187
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Centro-Oeste",
+   "month": "2024-11",
+   "price": 6.1291
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Centro-Oeste",
+   "month": "2024-12",
+   "price": 6.2012
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Centro-Oeste",
+   "month": "2025-01",
+   "price": 6.2893
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Centro-Oeste",
+   "month": "2025-02",
+   "price": 6.4591
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Centro-Oeste",
+   "month": "2025-03",
+   "price": 6.428
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Centro-Oeste",
+   "month": "2025-04",
+   "price": 6.3686
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Centro-Oeste",
+   "month": "2025-05",
+   "price": 6.3891
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Centro-Oeste",
+   "month": "2025-06",
+   "price": 6.3228
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Centro-Oeste",
+   "month": "2025-07",
+   "price": 6.2675
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Centro-Oeste",
+   "month": "2025-08",
+   "price": 6.2952
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Centro-Oeste",
+   "month": "2025-09",
+   "price": 6.3136
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Centro-Oeste",
+   "month": "2025-10",
+   "price": 6.3788
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Centro-Oeste",
+   "month": "2025-11",
+   "price": 6.3715
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Centro-Oeste",
+   "month": "2025-12",
+   "price": 6.3796
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Nordeste",
+   "month": "2023-01",
+   "price": 5.2656
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Nordeste",
+   "month": "2023-02",
+   "price": 5.3155
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Nordeste",
+   "month": "2023-03",
+   "price": 5.7311
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Nordeste",
+   "month": "2023-04",
+   "price": 5.7123
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Nordeste",
+   "month": "2023-05",
+   "price": 5.5194
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Nordeste",
+   "month": "2023-06",
+   "price": 5.5073
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Nordeste",
+   "month": "2023-07",
+   "price": 5.8181
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Nordeste",
+   "month": "2023-08",
+   "price": 6.0129
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Nordeste",
+   "month": "2023-09",
+   "price": 6.0809
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Nordeste",
+   "month": "2023-10",
+   "price": 5.926
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Nordeste",
+   "month": "2023-11",
+   "price": 5.778
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Nordeste",
+   "month": "2023-12",
+   "price": 5.7168
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Nordeste",
+   "month": "2024-01",
+   "price": 5.7194
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Nordeste",
+   "month": "2024-02",
+   "price": 5.9074
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Nordeste",
+   "month": "2024-03",
+   "price": 5.882
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Nordeste",
+   "month": "2024-04",
+   "price": 5.9905
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Nordeste",
+   "month": "2024-05",
+   "price": 6.0786
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Nordeste",
+   "month": "2024-06",
+   "price": 6.0546
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Nordeste",
+   "month": "2024-07",
+   "price": 6.2627
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Nordeste",
+   "month": "2024-08",
+   "price": 6.3111
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Nordeste",
+   "month": "2024-09",
+   "price": 6.217
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Nordeste",
+   "month": "2024-10",
+   "price": 6.2039
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Nordeste",
+   "month": "2024-11",
+   "price": 6.1988
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Nordeste",
+   "month": "2024-12",
+   "price": 6.2871
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Nordeste",
+   "month": "2025-01",
+   "price": 6.3411
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Nordeste",
+   "month": "2025-02",
+   "price": 6.5053
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Nordeste",
+   "month": "2025-03",
+   "price": 6.4752
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Nordeste",
+   "month": "2025-04",
+   "price": 6.4195
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Nordeste",
+   "month": "2025-05",
+   "price": 6.3684
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Nordeste",
+   "month": "2025-06",
+   "price": 6.3628
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Nordeste",
+   "month": "2025-07",
+   "price": 6.3081
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Nordeste",
+   "month": "2025-08",
+   "price": 6.282
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Nordeste",
+   "month": "2025-09",
+   "price": 6.2521
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Nordeste",
+   "month": "2025-10",
+   "price": 6.2875
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Nordeste",
+   "month": "2025-11",
+   "price": 6.2663
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Nordeste",
+   "month": "2025-12",
+   "price": 6.2506
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Norte",
+   "month": "2023-01",
+   "price": 5.2289
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Norte",
+   "month": "2023-02",
+   "price": 5.3604
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Norte",
+   "month": "2023-03",
+   "price": 5.8981
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Norte",
+   "month": "2023-04",
+   "price": 5.9737
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Norte",
+   "month": "2023-05",
+   "price": 5.8939
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Norte",
+   "month": "2023-06",
+   "price": 5.7852
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Norte",
+   "month": "2023-07",
+   "price": 6.0467
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Norte",
+   "month": "2023-08",
+   "price": 6.2223
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Norte",
+   "month": "2023-09",
+   "price": 6.3945
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Norte",
+   "month": "2023-10",
+   "price": 6.329
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Norte",
+   "month": "2023-11",
+   "price": 6.2784
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Norte",
+   "month": "2023-12",
+   "price": 6.1865
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Norte",
+   "month": "2024-01",
+   "price": 6.0492
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Norte",
+   "month": "2024-02",
+   "price": 6.1852
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Norte",
+   "month": "2024-03",
+   "price": 6.2026
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Norte",
+   "month": "2024-04",
+   "price": 6.2512
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Norte",
+   "month": "2024-05",
+   "price": 6.2856
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Norte",
+   "month": "2024-06",
+   "price": 6.2984
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Norte",
+   "month": "2024-07",
+   "price": 6.526
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Norte",
+   "month": "2024-08",
+   "price": 6.6702
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Norte",
+   "month": "2024-09",
+   "price": 6.6305
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Norte",
+   "month": "2024-10",
+   "price": 6.6943
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Norte",
+   "month": "2024-11",
+   "price": 6.7539
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Norte",
+   "month": "2024-12",
+   "price": 6.7951
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Norte",
+   "month": "2025-01",
+   "price": 6.7868
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Norte",
+   "month": "2025-02",
+   "price": 6.932
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Norte",
+   "month": "2025-03",
+   "price": 6.8973
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Norte",
+   "month": "2025-04",
+   "price": 6.8508
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Norte",
+   "month": "2025-05",
+   "price": 6.8107
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Norte",
+   "month": "2025-06",
+   "price": 6.7712
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Norte",
+   "month": "2025-07",
+   "price": 6.7896
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Norte",
+   "month": "2025-08",
+   "price": 6.7291
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Norte",
+   "month": "2025-09",
+   "price": 6.7502
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Norte",
+   "month": "2025-10",
+   "price": 6.7464
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Norte",
+   "month": "2025-11",
+   "price": 6.7132
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Norte",
+   "month": "2025-12",
+   "price": 6.743
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sudeste",
+   "month": "2023-01",
+   "price": 5.0806
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sudeste",
+   "month": "2023-02",
+   "price": 5.1202
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sudeste",
+   "month": "2023-03",
+   "price": 5.4965
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sudeste",
+   "month": "2023-04",
+   "price": 5.4919
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sudeste",
+   "month": "2023-05",
+   "price": 5.4152
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sudeste",
+   "month": "2023-06",
+   "price": 5.3938
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sudeste",
+   "month": "2023-07",
+   "price": 5.5658
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sudeste",
+   "month": "2023-08",
+   "price": 5.6311
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sudeste",
+   "month": "2023-09",
+   "price": 5.7815
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sudeste",
+   "month": "2023-10",
+   "price": 5.7436
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sudeste",
+   "month": "2023-11",
+   "price": 5.6853
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sudeste",
+   "month": "2023-12",
+   "price": 5.6477
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sudeste",
+   "month": "2024-01",
+   "price": 5.6122
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sudeste",
+   "month": "2024-02",
+   "price": 5.7508
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sudeste",
+   "month": "2024-03",
+   "price": 5.7542
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sudeste",
+   "month": "2024-04",
+   "price": 5.7935
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sudeste",
+   "month": "2024-05",
+   "price": 5.8346
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sudeste",
+   "month": "2024-06",
+   "price": 5.8348
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sudeste",
+   "month": "2024-07",
+   "price": 5.9908
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sudeste",
+   "month": "2024-08",
+   "price": 6.1023
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sudeste",
+   "month": "2024-09",
+   "price": 6.0904
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sudeste",
+   "month": "2024-10",
+   "price": 6.0951
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sudeste",
+   "month": "2024-11",
+   "price": 6.1075
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sudeste",
+   "month": "2024-12",
+   "price": 6.1248
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sudeste",
+   "month": "2025-01",
+   "price": 6.1657
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sudeste",
+   "month": "2025-02",
+   "price": 6.3258
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sudeste",
+   "month": "2025-03",
+   "price": 6.3085
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sudeste",
+   "month": "2025-04",
+   "price": 6.2876
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sudeste",
+   "month": "2025-05",
+   "price": 6.2684
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sudeste",
+   "month": "2025-06",
+   "price": 6.2083
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sudeste",
+   "month": "2025-07",
+   "price": 6.1961
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sudeste",
+   "month": "2025-08",
+   "price": 6.1799
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sudeste",
+   "month": "2025-09",
+   "price": 6.1923
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sudeste",
+   "month": "2025-10",
+   "price": 6.1891
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sudeste",
+   "month": "2025-11",
+   "price": 6.1726
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sudeste",
+   "month": "2025-12",
+   "price": 6.2
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sul",
+   "month": "2023-01",
+   "price": 5.1263
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sul",
+   "month": "2023-02",
+   "price": 5.192
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sul",
+   "month": "2023-03",
+   "price": 5.6284
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sul",
+   "month": "2023-04",
+   "price": 5.5782
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sul",
+   "month": "2023-05",
+   "price": 5.4719
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sul",
+   "month": "2023-06",
+   "price": 5.5375
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sul",
+   "month": "2023-07",
+   "price": 5.7546
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sul",
+   "month": "2023-08",
+   "price": 5.8295
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sul",
+   "month": "2023-09",
+   "price": 5.9327
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sul",
+   "month": "2023-10",
+   "price": 5.848
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sul",
+   "month": "2023-11",
+   "price": 5.7691
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sul",
+   "month": "2023-12",
+   "price": 5.7573
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sul",
+   "month": "2024-01",
+   "price": 5.7397
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sul",
+   "month": "2024-02",
+   "price": 5.9192
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sul",
+   "month": "2024-03",
+   "price": 5.9009
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sul",
+   "month": "2024-04",
+   "price": 5.9476
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sul",
+   "month": "2024-05",
+   "price": 6.0266
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sul",
+   "month": "2024-06",
+   "price": 6.0038
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sul",
+   "month": "2024-07",
+   "price": 6.1767
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sul",
+   "month": "2024-08",
+   "price": 6.2153
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sul",
+   "month": "2024-09",
+   "price": 6.2051
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sul",
+   "month": "2024-10",
+   "price": 6.2234
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sul",
+   "month": "2024-11",
+   "price": 6.2312
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sul",
+   "month": "2024-12",
+   "price": 6.2559
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sul",
+   "month": "2025-01",
+   "price": 6.2646
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sul",
+   "month": "2025-02",
+   "price": 6.5163
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sul",
+   "month": "2025-03",
+   "price": 6.5262
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sul",
+   "month": "2025-04",
+   "price": 6.5029
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sul",
+   "month": "2025-05",
+   "price": 6.4515
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sul",
+   "month": "2025-06",
+   "price": 6.3667
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sul",
+   "month": "2025-07",
+   "price": 6.3813
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sul",
+   "month": "2025-08",
+   "price": 6.337
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sul",
+   "month": "2025-09",
+   "price": 6.3512
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sul",
+   "month": "2025-10",
+   "price": 6.3843
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sul",
+   "month": "2025-11",
+   "price": 6.3488
+  },
+  {
+   "fuel": "GASOLINA",
+   "region": "Sul",
+   "month": "2025-12",
+   "price": 6.3719
+  }
+ ]
+}

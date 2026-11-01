@@ -1,0 +1,571 @@
+{
+ "states": [
+  {
+   "fuel": "DIESEL",
+   "uf": "SE",
+   "price": 5.8029,
+   "volatility": 4.5113,
+   "dispersion": 4.5249
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "PE",
+   "price": 5.8222,
+   "volatility": 4.2783,
+   "dispersion": 4.4486
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "DF",
+   "price": 5.9976,
+   "volatility": 4.1696,
+   "dispersion": 3.3208
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "MT",
+   "price": 6.3398,
+   "volatility": 4.1379,
+   "dispersion": 5.3445
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "PI",
+   "price": 5.9938,
+   "volatility": 4.0922,
+   "dispersion": 4.1841
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "GO",
+   "price": 5.9683,
+   "volatility": 4.0747,
+   "dispersion": 4.7243
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "MA",
+   "price": 5.9615,
+   "volatility": 3.9677,
+   "dispersion": 5.2654
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "AL",
+   "price": 6.1723,
+   "volatility": 3.9568,
+   "dispersion": 7.0893
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "CE",
+   "price": 6.0442,
+   "volatility": 3.8779,
+   "dispersion": 5.5437
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "PB",
+   "price": 5.8157,
+   "volatility": 3.7849,
+   "dispersion": 4.2596
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "RN",
+   "price": 6.2209,
+   "volatility": 3.7606,
+   "dispersion": 5.8023
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "MG",
+   "price": 5.9437,
+   "volatility": 3.7452,
+   "dispersion": 4.4319
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "BA",
+   "price": 6.1238,
+   "volatility": 3.7183,
+   "dispersion": 5.5456
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "PR",
+   "price": 5.9963,
+   "volatility": 3.7166,
+   "dispersion": 4.9629
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "PA",
+   "price": 6.3498,
+   "volatility": 3.6177,
+   "dispersion": 7.765
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "TO",
+   "price": 6.0149,
+   "volatility": 3.559,
+   "dispersion": 4.3008
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "MS",
+   "price": 6.0601,
+   "volatility": 3.5452,
+   "dispersion": 6.9656
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "RR",
+   "price": 6.7754,
+   "volatility": 3.462,
+   "dispersion": 1.4643
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "RO",
+   "price": 6.4224,
+   "volatility": 3.4513,
+   "dispersion": 5.2991
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "AM",
+   "price": 6.6793,
+   "volatility": 3.4278,
+   "dispersion": 8.2927
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "AP",
+   "price": 6.4563,
+   "volatility": 3.3884,
+   "dispersion": 5.0966
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "SP",
+   "price": 6.0833,
+   "volatility": 3.3349,
+   "dispersion": 6.7062
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "ES",
+   "price": 5.9924,
+   "volatility": 3.128,
+   "dispersion": 4.1864
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "RS",
+   "price": 6.1291,
+   "volatility": 3.1226,
+   "dispersion": 5.2006
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "SC",
+   "price": 6.1287,
+   "volatility": 3.1219,
+   "dispersion": 4.5537
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "RJ",
+   "price": 6.1493,
+   "volatility": 2.8494,
+   "dispersion": 5.4726
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "AC",
+   "price": 7.6133,
+   "volatility": 2.6272,
+   "dispersion": 4.3716
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "AM",
+   "price": 7.1193,
+   "volatility": 3.6246,
+   "dispersion": 6.1467
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "SE",
+   "price": 6.5355,
+   "volatility": 3.6041,
+   "dispersion": 2.712
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "RN",
+   "price": 6.1918,
+   "volatility": 3.3882,
+   "dispersion": 4.0316
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "DF",
+   "price": 6.364,
+   "volatility": 3.0271,
+   "dispersion": 2.8914
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "PI",
+   "price": 5.9088,
+   "volatility": 2.7424,
+   "dispersion": 3.7181
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "CE",
+   "price": 6.2911,
+   "volatility": 2.6384,
+   "dispersion": 4.1613
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "PE",
+   "price": 6.3965,
+   "volatility": 2.573,
+   "dispersion": 5.8187
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "BA",
+   "price": 6.3739,
+   "volatility": 2.5146,
+   "dispersion": 4.7278
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "MA",
+   "price": 6.0186,
+   "volatility": 2.4827,
+   "dispersion": 6.0569
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "TO",
+   "price": 6.5515,
+   "volatility": 2.3844,
+   "dispersion": 3.7066
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "ES",
+   "price": 6.3587,
+   "volatility": 2.347,
+   "dispersion": 5.0371
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "RS",
+   "price": 6.3156,
+   "volatility": 2.3285,
+   "dispersion": 5.0199
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "PB",
+   "price": 5.9699,
+   "volatility": 2.3271,
+   "dispersion": 2.6314
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "AL",
+   "price": 6.3876,
+   "volatility": 2.2947,
+   "dispersion": 5.5242
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "GO",
+   "price": 6.4242,
+   "volatility": 2.2814,
+   "dispersion": 4.4821
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "RO",
+   "price": 6.8852,
+   "volatility": 2.267,
+   "dispersion": 3.1686
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "AP",
+   "price": 6.0943,
+   "volatility": 2.2406,
+   "dispersion": 3.0743
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "PA",
+   "price": 6.43,
+   "volatility": 2.2022,
+   "dispersion": 7.0009
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "RR",
+   "price": 6.9076,
+   "volatility": 2.1487,
+   "dispersion": 1.1293
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "AC",
+   "price": 7.5057,
+   "volatility": 2.1458,
+   "dispersion": 4.0294
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "MT",
+   "price": 6.4031,
+   "volatility": 2.1055,
+   "dispersion": 4.5592
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "PR",
+   "price": 6.4437,
+   "volatility": 1.9022,
+   "dispersion": 5.0217
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "MS",
+   "price": 6.1995,
+   "volatility": 1.8506,
+   "dispersion": 7.5198
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "MG",
+   "price": 6.1372,
+   "volatility": 1.7916,
+   "dispersion": 4.7075
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "SC",
+   "price": 6.3614,
+   "volatility": 1.7212,
+   "dispersion": 3.5243
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "RJ",
+   "price": 6.2074,
+   "volatility": 1.6981,
+   "dispersion": 5.8666
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "SP",
+   "price": 6.1856,
+   "volatility": 1.5941,
+   "dispersion": 7.6812
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "RN",
+   "price": 4.8603,
+   "volatility": 4.6799,
+   "dispersion": 6.9423
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "MT",
+   "price": 4.3822,
+   "volatility": 3.9826,
+   "dispersion": 4.8995
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "DF",
+   "price": 4.6321,
+   "volatility": 3.625,
+   "dispersion": 3.6233
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "SE",
+   "price": 4.8344,
+   "volatility": 3.3277,
+   "dispersion": 2.939
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "GO",
+   "price": 4.6542,
+   "volatility": 3.3247,
+   "dispersion": 6.8336
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "AM",
+   "price": 5.4749,
+   "volatility": 3.3144,
+   "dispersion": 2.4473
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "PB",
+   "price": 4.2988,
+   "volatility": 3.1314,
+   "dispersion": 4.2469
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "PE",
+   "price": 4.6175,
+   "volatility": 2.7401,
+   "dispersion": 6.5562
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "PI",
+   "price": 4.493,
+   "volatility": 2.6513,
+   "dispersion": 4.5058
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "AL",
+   "price": 4.9912,
+   "volatility": 2.6184,
+   "dispersion": 6.6685
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "SP",
+   "price": 4.1667,
+   "volatility": 2.5595,
+   "dispersion": 8.3599
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "MG",
+   "price": 4.3629,
+   "volatility": 2.4693,
+   "dispersion": 6.0936
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "AP",
+   "price": 5.5547,
+   "volatility": 2.3128,
+   "dispersion": 3.3278
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "MS",
+   "price": 3.9958,
+   "volatility": 2.2741,
+   "dispersion": 9.1266
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "BA",
+   "price": 4.7683,
+   "volatility": 2.2,
+   "dispersion": 5.8269
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "CE",
+   "price": 4.9193,
+   "volatility": 2.0652,
+   "dispersion": 5.7358
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "PR",
+   "price": 4.4437,
+   "volatility": 2.062,
+   "dispersion": 7.0396
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "PA",
+   "price": 4.8175,
+   "volatility": 2.0553,
+   "dispersion": 9.2865
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "TO",
+   "price": 4.799,
+   "volatility": 1.9498,
+   "dispersion": 5.4596
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "RO",
+   "price": 5.3976,
+   "volatility": 1.8454,
+   "dispersion": 5.0453
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "RJ",
+   "price": 4.6184,
+   "volatility": 1.8115,
+   "dispersion": 7.3767
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "AC",
+   "price": 5.3908,
+   "volatility": 1.7727,
+   "dispersion": 6.1722
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "ES",
+   "price": 4.5271,
+   "volatility": 1.7243,
+   "dispersion": 5.7507
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "SC",
+   "price": 4.7227,
+   "volatility": 1.5052,
+   "dispersion": 6.9161
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "MA",
+   "price": 4.8898,
+   "volatility": 1.4269,
+   "dispersion": 6.7846
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "RS",
+   "price": 4.8746,
+   "volatility": 1.4095,
+   "dispersion": 8.8853
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "RR",
+   "price": 5.1806,
+   "volatility": 1.0667,
+   "dispersion": 1.231
+  }
+ ]
+}

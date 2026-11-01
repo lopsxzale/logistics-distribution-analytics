@@ -11,11 +11,11 @@ testpaths = ["tests"]
 [tool.ruff]
 line-length = 120
 target-version = "py311"
-extend-exclude = ["notebooks"]
+extend-exclude = ["notebooks", "web"]
 
 [tool.ruff.lint]
 select = ["E", "F", "W", "I", "B", "UP", "SIM"]
 ignore = ["E501"]  # comprimento de linha é responsabilidade do `ruff format`; textos longos ficam inteiros
 
 [tool.ruff.lint.isort]
-known-first-party = ["db", "export", "metrics", "referencias", "transform", "extract", "load", "components", "data"]
+known-first-party = ["db", "export", "export_web", "metrics", "referencias", "transform", "extract", "load"]

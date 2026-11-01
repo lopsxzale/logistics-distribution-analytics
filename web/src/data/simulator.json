@@ -1,0 +1,411 @@
+{
+ "window_months": 3,
+ "last_month": "2025-12",
+ "prices": [
+  {
+   "fuel": "DIESEL",
+   "uf": "AC",
+   "price": 7.6133
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "AL",
+   "price": 6.1723
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "AM",
+   "price": 6.6793
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "AP",
+   "price": 6.4563
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "BA",
+   "price": 6.1238
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "CE",
+   "price": 6.0442
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "DF",
+   "price": 5.9976
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "ES",
+   "price": 5.9924
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "GO",
+   "price": 5.9683
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "MA",
+   "price": 5.9615
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "MG",
+   "price": 5.9437
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "MS",
+   "price": 6.0601
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "MT",
+   "price": 6.3398
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "PA",
+   "price": 6.3498
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "PB",
+   "price": 5.8157
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "PE",
+   "price": 5.8222
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "PI",
+   "price": 5.9938
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "PR",
+   "price": 5.9963
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "RJ",
+   "price": 6.1493
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "RN",
+   "price": 6.2209
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "RO",
+   "price": 6.4224
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "RR",
+   "price": 6.7754
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "RS",
+   "price": 6.1291
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "SC",
+   "price": 6.1287
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "SE",
+   "price": 5.8029
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "SP",
+   "price": 6.0833
+  },
+  {
+   "fuel": "DIESEL",
+   "uf": "TO",
+   "price": 6.0149
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "AC",
+   "price": 7.5057
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "AL",
+   "price": 6.3876
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "AM",
+   "price": 7.1193
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "AP",
+   "price": 6.0943
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "BA",
+   "price": 6.3739
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "CE",
+   "price": 6.2911
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "DF",
+   "price": 6.364
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "ES",
+   "price": 6.3587
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "GO",
+   "price": 6.4242
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "MA",
+   "price": 6.0186
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "MG",
+   "price": 6.1372
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "MS",
+   "price": 6.1995
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "MT",
+   "price": 6.4031
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "PA",
+   "price": 6.43
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "PB",
+   "price": 5.9699
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "PE",
+   "price": 6.3965
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "PI",
+   "price": 5.9088
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "PR",
+   "price": 6.4437
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "RJ",
+   "price": 6.2074
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "RN",
+   "price": 6.1918
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "RO",
+   "price": 6.8852
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "RR",
+   "price": 6.9076
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "RS",
+   "price": 6.3156
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "SC",
+   "price": 6.3614
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "SE",
+   "price": 6.5355
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "SP",
+   "price": 6.1856
+  },
+  {
+   "fuel": "GASOLINA",
+   "uf": "TO",
+   "price": 6.5515
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "AC",
+   "price": 5.3908
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "AL",
+   "price": 4.9912
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "AM",
+   "price": 5.4749
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "AP",
+   "price": 5.5547
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "BA",
+   "price": 4.7683
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "CE",
+   "price": 4.9193
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "DF",
+   "price": 4.6321
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "ES",
+   "price": 4.5271
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "GO",
+   "price": 4.6542
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "MA",
+   "price": 4.8898
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "MG",
+   "price": 4.3629
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "MS",
+   "price": 3.9958
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "MT",
+   "price": 4.3822
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "PA",
+   "price": 4.8175
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "PB",
+   "price": 4.2988
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "PE",
+   "price": 4.6175
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "PI",
+   "price": 4.493
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "PR",
+   "price": 4.4437
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "RJ",
+   "price": 4.6184
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "RN",
+   "price": 4.8603
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "RO",
+   "price": 5.3976
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "RR",
+   "price": 5.1806
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "RS",
+   "price": 4.8746
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "SC",
+   "price": 4.7227
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "SE",
+   "price": 4.8344
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "SP",
+   "price": 4.1667
+  },
+  {
+   "fuel": "ETANOL",
+   "uf": "TO",
+   "price": 4.799
+  }
+ ]
+}

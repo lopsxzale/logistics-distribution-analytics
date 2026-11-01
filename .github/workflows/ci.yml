@@ -6,7 +6,8 @@ on:
   pull_request:
 
 jobs:
-  testes:
+  python:
+    name: Pipeline (lint + testes)
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -14,9 +15,25 @@ jobs:
         with:
           python-version: "3.12"
           cache: pip
-      - name: Instalar dependências
-        run: pip install -r requirements.txt pytest ruff
-      - name: Lint
-        run: ruff check . && ruff format --check .
-      - name: Testes (métricas, ETL e todas as páginas do dashboard)
-        run: pytest -q
+      - run: pip install -r requirements.txt
+      - run: ruff check .
+      - run: ruff format --check .
+      # Métricas, ETL e o contrato dos JSONs versionados em web/src/data.
+      - run: pytest -q
+
+  web:
+    name: Site (lint + build)
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: web
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+      - run: npm ci
+      - run: npm run lint
+      - run: npm run build

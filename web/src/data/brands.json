@@ -1,0 +1,564 @@
+{
+ "ranking": [
+  {
+   "fuel": "DIESEL",
+   "brand": "ALESAT",
+   "price": 5.9636,
+   "diff_pct": 1.232,
+   "share": 0.0362
+  },
+  {
+   "fuel": "DIESEL",
+   "brand": "BRANCA",
+   "price": 5.891,
+   "diff_pct": 0.0,
+   "share": 0.3658
+  },
+  {
+   "fuel": "DIESEL",
+   "brand": "IPIRANGA",
+   "price": 6.0659,
+   "diff_pct": 2.9694,
+   "share": 0.2167
+  },
+  {
+   "fuel": "DIESEL",
+   "brand": "OUTRAS",
+   "price": 6.0897,
+   "diff_pct": 3.3723,
+   "share": 0.0643
+  },
+  {
+   "fuel": "DIESEL",
+   "brand": "RAIZEN",
+   "price": 5.9903,
+   "diff_pct": 1.6856,
+   "share": 0.1291
+  },
+  {
+   "fuel": "DIESEL",
+   "brand": "VIBRA",
+   "price": 6.0922,
+   "diff_pct": 3.4158,
+   "share": 0.1879
+  },
+  {
+   "fuel": "GASOLINA",
+   "brand": "ALESAT",
+   "price": 5.9017,
+   "diff_pct": 1.5211,
+   "share": 0.0307
+  },
+  {
+   "fuel": "GASOLINA",
+   "brand": "BRANCA",
+   "price": 5.8133,
+   "diff_pct": 0.0,
+   "share": 0.3145
+  },
+  {
+   "fuel": "GASOLINA",
+   "brand": "IPIRANGA",
+   "price": 6.0285,
+   "diff_pct": 3.7013,
+   "share": 0.217
+  },
+  {
+   "fuel": "GASOLINA",
+   "brand": "OUTRAS",
+   "price": 6.1075,
+   "diff_pct": 5.0614,
+   "share": 0.0564
+  },
+  {
+   "fuel": "GASOLINA",
+   "brand": "RAIZEN",
+   "price": 6.036,
+   "diff_pct": 3.83,
+   "share": 0.1523
+  },
+  {
+   "fuel": "GASOLINA",
+   "brand": "VIBRA",
+   "price": 6.0834,
+   "diff_pct": 4.6454,
+   "share": 0.229
+  },
+  {
+   "fuel": "ETANOL",
+   "brand": "ALESAT",
+   "price": 4.1871,
+   "diff_pct": 3.1588,
+   "share": 0.0341
+  },
+  {
+   "fuel": "ETANOL",
+   "brand": "BRANCA",
+   "price": 4.0589,
+   "diff_pct": 0.0,
+   "share": 0.3592
+  },
+  {
+   "fuel": "ETANOL",
+   "brand": "IPIRANGA",
+   "price": 4.1697,
+   "diff_pct": 2.7277,
+   "share": 0.2052
+  },
+  {
+   "fuel": "ETANOL",
+   "brand": "OUTRAS",
+   "price": 4.4797,
+   "diff_pct": 10.3661,
+   "share": 0.0467
+  },
+  {
+   "fuel": "ETANOL",
+   "brand": "RAIZEN",
+   "price": 4.1378,
+   "diff_pct": 1.9435,
+   "share": 0.1553
+  },
+  {
+   "fuel": "ETANOL",
+   "brand": "VIBRA",
+   "price": 4.3062,
+   "diff_pct": 6.0911,
+   "share": 0.1995
+  }
+ ],
+ "products": [
+  {
+   "product": "s10",
+   "month": "2023-01",
+   "premium_brl": 0.1132,
+   "premium_pct": 1.7851
+  },
+  {
+   "product": "s10",
+   "month": "2023-02",
+   "premium_brl": 0.1073,
+   "premium_pct": 1.7634
+  },
+  {
+   "product": "s10",
+   "month": "2023-03",
+   "premium_brl": 0.0993,
+   "premium_pct": 1.6862
+  },
+  {
+   "product": "s10",
+   "month": "2023-04",
+   "premium_brl": 0.087,
+   "premium_pct": 1.5097
+  },
+  {
+   "product": "s10",
+   "month": "2023-05",
+   "premium_brl": 0.0768,
+   "premium_pct": 1.4244
+  },
+  {
+   "product": "s10",
+   "month": "2023-06",
+   "premium_brl": 0.0747,
+   "premium_pct": 1.4805
+  },
+  {
+   "product": "s10",
+   "month": "2023-07",
+   "premium_brl": 0.0601,
+   "premium_pct": 1.206
+  },
+  {
+   "product": "s10",
+   "month": "2023-08",
+   "premium_brl": 0.1148,
+   "premium_pct": 2.0773
+  },
+  {
+   "product": "s10",
+   "month": "2023-09",
+   "premium_brl": 0.1197,
+   "premium_pct": 1.962
+  },
+  {
+   "product": "s10",
+   "month": "2023-10",
+   "premium_brl": 0.1204,
+   "premium_pct": 1.969
+  },
+  {
+   "product": "s10",
+   "month": "2023-11",
+   "premium_brl": 0.1114,
+   "premium_pct": 1.8212
+  },
+  {
+   "product": "s10",
+   "month": "2023-12",
+   "premium_brl": 0.0985,
+   "premium_pct": 1.6494
+  },
+  {
+   "product": "s10",
+   "month": "2024-01",
+   "premium_brl": 0.0759,
+   "premium_pct": 1.2828
+  },
+  {
+   "product": "s10",
+   "month": "2024-02",
+   "premium_brl": 0.0583,
+   "premium_pct": 0.9782
+  },
+  {
+   "product": "s10",
+   "month": "2024-03",
+   "premium_brl": 0.0579,
+   "premium_pct": 0.9771
+  },
+  {
+   "product": "s10",
+   "month": "2024-04",
+   "premium_brl": 0.053,
+   "premium_pct": 0.8917
+  },
+  {
+   "product": "s10",
+   "month": "2024-05",
+   "premium_brl": 0.0564,
+   "premium_pct": 0.9488
+  },
+  {
+   "product": "s10",
+   "month": "2024-06",
+   "premium_brl": 0.0514,
+   "premium_pct": 0.866
+  },
+  {
+   "product": "s10",
+   "month": "2024-07",
+   "premium_brl": 0.0551,
+   "premium_pct": 0.9201
+  },
+  {
+   "product": "s10",
+   "month": "2024-08",
+   "premium_brl": 0.0617,
+   "premium_pct": 1.0277
+  },
+  {
+   "product": "s10",
+   "month": "2024-09",
+   "premium_brl": 0.0587,
+   "premium_pct": 0.9797
+  },
+  {
+   "product": "s10",
+   "month": "2024-10",
+   "premium_brl": 0.0587,
+   "premium_pct": 0.9782
+  },
+  {
+   "product": "s10",
+   "month": "2024-11",
+   "premium_brl": 0.0569,
+   "premium_pct": 0.9447
+  },
+  {
+   "product": "s10",
+   "month": "2024-12",
+   "premium_brl": 0.0588,
+   "premium_pct": 0.9665
+  },
+  {
+   "product": "s10",
+   "month": "2025-01",
+   "premium_brl": 0.0546,
+   "premium_pct": 0.8905
+  },
+  {
+   "product": "s10",
+   "month": "2025-02",
+   "premium_brl": 0.0503,
+   "premium_pct": 0.7823
+  },
+  {
+   "product": "s10",
+   "month": "2025-03",
+   "premium_brl": 0.0521,
+   "premium_pct": 0.8143
+  },
+  {
+   "product": "s10",
+   "month": "2025-04",
+   "premium_brl": 0.0515,
+   "premium_pct": 0.8192
+  },
+  {
+   "product": "s10",
+   "month": "2025-05",
+   "premium_brl": 0.0538,
+   "premium_pct": 0.877
+  },
+  {
+   "product": "s10",
+   "month": "2025-06",
+   "premium_brl": 0.0532,
+   "premium_pct": 0.8809
+  },
+  {
+   "product": "s10",
+   "month": "2025-07",
+   "premium_brl": 0.0533,
+   "premium_pct": 0.8818
+  },
+  {
+   "product": "s10",
+   "month": "2025-08",
+   "premium_brl": 0.0565,
+   "premium_pct": 0.9316
+  },
+  {
+   "product": "s10",
+   "month": "2025-09",
+   "premium_brl": 0.0547,
+   "premium_pct": 0.9025
+  },
+  {
+   "product": "s10",
+   "month": "2025-10",
+   "premium_brl": 0.0562,
+   "premium_pct": 0.9292
+  },
+  {
+   "product": "s10",
+   "month": "2025-11",
+   "premium_brl": 0.0496,
+   "premium_pct": 0.8193
+  },
+  {
+   "product": "s10",
+   "month": "2025-12",
+   "premium_brl": 0.0511,
+   "premium_pct": 0.8427
+  },
+  {
+   "product": "additive",
+   "month": "2023-01",
+   "premium_brl": 0.1881,
+   "premium_pct": 3.728
+  },
+  {
+   "product": "additive",
+   "month": "2023-02",
+   "premium_brl": 0.1853,
+   "premium_pct": 3.632
+  },
+  {
+   "product": "additive",
+   "month": "2023-03",
+   "premium_brl": 0.1846,
+   "premium_pct": 3.3472
+  },
+  {
+   "product": "additive",
+   "month": "2023-04",
+   "premium_brl": 0.1812,
+   "premium_pct": 3.2904
+  },
+  {
+   "product": "additive",
+   "month": "2023-05",
+   "premium_brl": 0.1834,
+   "premium_pct": 3.3942
+  },
+  {
+   "product": "additive",
+   "month": "2023-06",
+   "premium_brl": 0.1799,
+   "premium_pct": 3.3365
+  },
+  {
+   "product": "additive",
+   "month": "2023-07",
+   "premium_brl": 0.1791,
+   "premium_pct": 3.1929
+  },
+  {
+   "product": "additive",
+   "month": "2023-08",
+   "premium_brl": 0.1759,
+   "premium_pct": 3.0783
+  },
+  {
+   "product": "additive",
+   "month": "2023-09",
+   "premium_brl": 0.1743,
+   "premium_pct": 2.9847
+  },
+  {
+   "product": "additive",
+   "month": "2023-10",
+   "premium_brl": 0.1754,
+   "premium_pct": 3.0424
+  },
+  {
+   "product": "additive",
+   "month": "2023-11",
+   "premium_brl": 0.1859,
+   "premium_pct": 3.2755
+  },
+  {
+   "product": "additive",
+   "month": "2023-12",
+   "premium_brl": 0.1901,
+   "premium_pct": 3.3741
+  },
+  {
+   "product": "additive",
+   "month": "2024-01",
+   "premium_brl": 0.192,
+   "premium_pct": 3.4239
+  },
+  {
+   "product": "additive",
+   "month": "2024-02",
+   "premium_brl": 0.1869,
+   "premium_pct": 3.2367
+  },
+  {
+   "product": "additive",
+   "month": "2024-03",
+   "premium_brl": 0.1854,
+   "premium_pct": 3.2156
+  },
+  {
+   "product": "additive",
+   "month": "2024-04",
+   "premium_brl": 0.1854,
+   "premium_pct": 3.1852
+  },
+  {
+   "product": "additive",
+   "month": "2024-05",
+   "premium_brl": 0.188,
+   "premium_pct": 3.201
+  },
+  {
+   "product": "additive",
+   "month": "2024-06",
+   "premium_brl": 0.19,
+   "premium_pct": 3.241
+  },
+  {
+   "product": "additive",
+   "month": "2024-07",
+   "premium_brl": 0.1934,
+   "premium_pct": 3.2049
+  },
+  {
+   "product": "additive",
+   "month": "2024-08",
+   "premium_brl": 0.1914,
+   "premium_pct": 3.1283
+  },
+  {
+   "product": "additive",
+   "month": "2024-09",
+   "premium_brl": 0.1877,
+   "premium_pct": 3.0802
+  },
+  {
+   "product": "additive",
+   "month": "2024-10",
+   "premium_brl": 0.1943,
+   "premium_pct": 3.1844
+  },
+  {
+   "product": "additive",
+   "month": "2024-11",
+   "premium_brl": 0.1991,
+   "premium_pct": 3.2613
+  },
+  {
+   "product": "additive",
+   "month": "2024-12",
+   "premium_brl": 0.1987,
+   "premium_pct": 3.2348
+  },
+  {
+   "product": "additive",
+   "month": "2025-01",
+   "premium_brl": 0.1957,
+   "premium_pct": 3.1641
+  },
+  {
+   "product": "additive",
+   "month": "2025-02",
+   "premium_brl": 0.1906,
+   "premium_pct": 2.9937
+  },
+  {
+   "product": "additive",
+   "month": "2025-03",
+   "premium_brl": 0.1906,
+   "premium_pct": 3.0023
+  },
+  {
+   "product": "additive",
+   "month": "2025-04",
+   "premium_brl": 0.1934,
+   "premium_pct": 3.0613
+  },
+  {
+   "product": "additive",
+   "month": "2025-05",
+   "premium_brl": 0.1974,
+   "premium_pct": 3.1411
+  },
+  {
+   "product": "additive",
+   "month": "2025-06",
+   "premium_brl": 0.2023,
+   "premium_pct": 3.2484
+  },
+  {
+   "product": "additive",
+   "month": "2025-07",
+   "premium_brl": 0.205,
+   "premium_pct": 3.301
+  },
+  {
+   "product": "additive",
+   "month": "2025-08",
+   "premium_brl": 0.2168,
+   "premium_pct": 3.5064
+  },
+  {
+   "product": "additive",
+   "month": "2025-09",
+   "premium_brl": 0.2149,
+   "premium_pct": 3.4714
+  },
+  {
+   "product": "additive",
+   "month": "2025-10",
+   "premium_brl": 0.2039,
+   "premium_pct": 3.2805
+  },
+  {
+   "product": "additive",
+   "month": "2025-11",
+   "premium_brl": 0.2015,
+   "premium_pct": 3.2557
+  },
+  {
+   "product": "additive",
+   "month": "2025-12",
+   "premium_brl": 0.2013,
+   "premium_pct": 3.2449
+  }
+ ]
+}

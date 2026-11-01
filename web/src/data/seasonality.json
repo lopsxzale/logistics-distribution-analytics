@@ -1,0 +1,1050 @@
+{
+ "index": [
+  {
+   "month": 1,
+   "mean": 102.9081,
+   "min": 99.1704,
+   "max": 109.8204,
+   "years": 3,
+   "fuel": "DIESEL"
+  },
+  {
+   "month": 2,
+   "mean": 103.1904,
+   "min": 99.7383,
+   "max": 105.3253,
+   "years": 3,
+   "fuel": "DIESEL"
+  },
+  {
+   "month": 3,
+   "mean": 101.7216,
+   "min": 99.115,
+   "max": 104.1179,
+   "years": 3,
+   "fuel": "DIESEL"
+  },
+  {
+   "month": 4,
+   "mean": 100.4232,
+   "min": 99.3638,
+   "max": 102.2945,
+   "years": 3,
+   "fuel": "DIESEL"
+  },
+  {
+   "month": 5,
+   "mean": 97.4694,
+   "min": 93.1711,
+   "max": 99.8216,
+   "years": 3,
+   "fuel": "DIESEL"
+  },
+  {
+   "month": 6,
+   "mean": 94.8999,
+   "min": 87.2209,
+   "max": 99.2098,
+   "years": 3,
+   "fuel": "DIESEL"
+  },
+  {
+   "month": 7,
+   "mean": 94.8901,
+   "min": 86.0076,
+   "max": 100.2579,
+   "years": 3,
+   "fuel": "DIESEL"
+  },
+  {
+   "month": 8,
+   "mean": 98.343,
+   "min": 95.8627,
+   "max": 100.4431,
+   "years": 3,
+   "fuel": "DIESEL"
+  },
+  {
+   "month": 9,
+   "mean": 101.543,
+   "min": 98.6347,
+   "max": 105.7288,
+   "years": 3,
+   "fuel": "DIESEL"
+  },
+  {
+   "month": 10,
+   "mean": 101.6189,
+   "min": 98.4034,
+   "max": 106.024,
+   "years": 3,
+   "fuel": "DIESEL"
+  },
+  {
+   "month": 11,
+   "mean": 101.7493,
+   "min": 98.5062,
+   "max": 105.9657,
+   "years": 3,
+   "fuel": "DIESEL"
+  },
+  {
+   "month": 12,
+   "mean": 101.2431,
+   "min": 98.5838,
+   "max": 103.3303,
+   "years": 3,
+   "fuel": "DIESEL"
+  },
+  {
+   "month": 1,
+   "mean": 95.042,
+   "min": 91.6188,
+   "max": 99.0197,
+   "years": 3,
+   "fuel": "GASOLINA"
+  },
+  {
+   "month": 2,
+   "mean": 97.2234,
+   "min": 92.605,
+   "max": 101.8757,
+   "years": 3,
+   "fuel": "GASOLINA"
+  },
+  {
+   "month": 3,
+   "mean": 99.5361,
+   "min": 97.0336,
+   "max": 101.6049,
+   "years": 3,
+   "fuel": "GASOLINA"
+  },
+  {
+   "month": 4,
+   "mean": 99.6269,
+   "min": 97.9802,
+   "max": 101.0913,
+   "years": 3,
+   "fuel": "GASOLINA"
+  },
+  {
+   "month": 5,
+   "mean": 99.1277,
+   "min": 97.9622,
+   "max": 100.6044,
+   "years": 3,
+   "fuel": "GASOLINA"
+  },
+  {
+   "month": 6,
+   "mean": 98.7315,
+   "min": 97.7579,
+   "max": 99.7329,
+   "years": 3,
+   "fuel": "GASOLINA"
+  },
+  {
+   "month": 7,
+   "mean": 100.9003,
+   "min": 99.5247,
+   "max": 101.6255,
+   "years": 3,
+   "fuel": "GASOLINA"
+  },
+  {
+   "month": 8,
+   "mean": 101.8368,
+   "min": 99.1594,
+   "max": 103.4616,
+   "years": 3,
+   "fuel": "GASOLINA"
+  },
+  {
+   "month": 9,
+   "mean": 102.506,
+   "min": 99.2934,
+   "max": 105.7184,
+   "years": 3,
+   "fuel": "GASOLINA"
+  },
+  {
+   "month": 10,
+   "mean": 102.2223,
+   "min": 99.5872,
+   "max": 104.396,
+   "years": 3,
+   "fuel": "GASOLINA"
+  },
+  {
+   "month": 11,
+   "mean": 101.5962,
+   "min": 99.1319,
+   "max": 102.8917,
+   "years": 3,
+   "fuel": "GASOLINA"
+  },
+  {
+   "month": 12,
+   "mean": 101.6508,
+   "min": 99.3743,
+   "max": 103.394,
+   "years": 3,
+   "fuel": "GASOLINA"
+  },
+  {
+   "month": 1,
+   "mean": 96.8248,
+   "min": 90.7577,
+   "max": 101.6493,
+   "years": 3,
+   "fuel": "ETANOL"
+  },
+  {
+   "month": 2,
+   "mean": 98.5959,
+   "min": 93.4785,
+   "max": 102.0394,
+   "years": 3,
+   "fuel": "ETANOL"
+  },
+  {
+   "month": 3,
+   "mean": 99.6511,
+   "min": 93.8297,
+   "max": 103.1501,
+   "years": 3,
+   "fuel": "ETANOL"
+  },
+  {
+   "month": 4,
+   "mean": 101.035,
+   "min": 97.9857,
+   "max": 103.9576,
+   "years": 3,
+   "fuel": "ETANOL"
+  },
+  {
+   "month": 5,
+   "mean": 101.5079,
+   "min": 99.5435,
+   "max": 104.3308,
+   "years": 3,
+   "fuel": "ETANOL"
+  },
+  {
+   "month": 6,
+   "mean": 99.4964,
+   "min": 99.2252,
+   "max": 100.0264,
+   "years": 3,
+   "fuel": "ETANOL"
+  },
+  {
+   "month": 7,
+   "mean": 101.1843,
+   "min": 98.2415,
+   "max": 103.5498,
+   "years": 3,
+   "fuel": "ETANOL"
+  },
+  {
+   "month": 8,
+   "mean": 100.4732,
+   "min": 98.0017,
+   "max": 104.9466,
+   "years": 3,
+   "fuel": "ETANOL"
+  },
+  {
+   "month": 9,
+   "mean": 100.7254,
+   "min": 98.5966,
+   "max": 104.2854,
+   "years": 3,
+   "fuel": "ETANOL"
+  },
+  {
+   "month": 10,
+   "mean": 100.3424,
+   "min": 97.3814,
+   "max": 103.7638,
+   "years": 3,
+   "fuel": "ETANOL"
+  },
+  {
+   "month": 11,
+   "mean": 99.9065,
+   "min": 96.1056,
+   "max": 103.8477,
+   "years": 3,
+   "fuel": "ETANOL"
+  },
+  {
+   "month": 12,
+   "mean": 100.2571,
+   "min": 94.2997,
+   "max": 104.7741,
+   "years": 3,
+   "fuel": "ETANOL"
+  }
+ ],
+ "calendar": [
+  {
+   "fuel": "DIESEL",
+   "year": 2023,
+   "month": 1,
+   "price": 6.411,
+   "mom_pct": null
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2023,
+   "month": 2,
+   "price": 6.1486,
+   "mom_pct": -4.0931
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2023,
+   "month": 3,
+   "price": 5.9505,
+   "mom_pct": -3.2219
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2023,
+   "month": 4,
+   "price": 5.815,
+   "mom_pct": -2.2767
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2023,
+   "month": 5,
+   "price": 5.4391,
+   "mom_pct": -6.4652
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2023,
+   "month": 6,
+   "price": 5.0917,
+   "mom_pct": -6.3863
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2023,
+   "month": 7,
+   "price": 5.0209,
+   "mom_pct": -1.3911
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2023,
+   "month": 8,
+   "price": 5.5962,
+   "mom_pct": 11.4585
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2023,
+   "month": 9,
+   "price": 6.1722,
+   "mom_pct": 10.2919
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2023,
+   "month": 10,
+   "price": 6.1894,
+   "mom_pct": 0.2792
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2023,
+   "month": 11,
+   "price": 6.186,
+   "mom_pct": -0.0551
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2023,
+   "month": 12,
+   "price": 6.0321,
+   "mom_pct": -2.487
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2024,
+   "month": 1,
+   "price": 5.9625,
+   "mom_pct": -1.1546
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2024,
+   "month": 2,
+   "price": 5.9966,
+   "mom_pct": 0.5727
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2024,
+   "month": 3,
+   "price": 5.9592,
+   "mom_pct": -0.6249
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2024,
+   "month": 4,
+   "price": 5.9741,
+   "mom_pct": 0.251
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2024,
+   "month": 5,
+   "price": 5.9772,
+   "mom_pct": 0.0521
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2024,
+   "month": 6,
+   "price": 5.9649,
+   "mom_pct": -0.2069
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2024,
+   "month": 7,
+   "price": 6.0279,
+   "mom_pct": 1.0564
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2024,
+   "month": 8,
+   "price": 6.039,
+   "mom_pct": 0.1847
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2024,
+   "month": 9,
+   "price": 6.0283,
+   "mom_pct": -0.1767
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2024,
+   "month": 10,
+   "price": 6.0382,
+   "mom_pct": 0.1632
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2024,
+   "month": 11,
+   "price": 6.059,
+   "mom_pct": 0.3452
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2024,
+   "month": 12,
+   "price": 6.1215,
+   "mom_pct": 1.0313
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2025,
+   "month": 1,
+   "price": 6.1652,
+   "mom_pct": 0.7131
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2025,
+   "month": 2,
+   "price": 6.4603,
+   "mom_pct": 4.7868
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2025,
+   "month": 3,
+   "price": 6.4362,
+   "mom_pct": -0.3728
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2025,
+   "month": 4,
+   "price": 6.3235,
+   "mom_pct": -1.7512
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2025,
+   "month": 5,
+   "price": 6.1706,
+   "mom_pct": -2.4174
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2025,
+   "month": 6,
+   "price": 6.0746,
+   "mom_pct": -1.5555
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2025,
+   "month": 7,
+   "price": 6.083,
+   "mom_pct": 0.1382
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2025,
+   "month": 8,
+   "price": 6.1027,
+   "mom_pct": 0.3238
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2025,
+   "month": 9,
+   "price": 6.0973,
+   "mom_pct": -0.0898
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2025,
+   "month": 10,
+   "price": 6.083,
+   "mom_pct": -0.2345
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2025,
+   "month": 11,
+   "price": 6.0893,
+   "mom_pct": 0.1045
+  },
+  {
+   "fuel": "DIESEL",
+   "year": 2025,
+   "month": 12,
+   "price": 6.0941,
+   "mom_pct": 0.0787
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2023,
+   "month": 1,
+   "price": 5.1274,
+   "mom_pct": null
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2023,
+   "month": 2,
+   "price": 5.1826,
+   "mom_pct": 1.0765
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2023,
+   "month": 3,
+   "price": 5.5947,
+   "mom_pct": 7.953
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2023,
+   "month": 4,
+   "price": 5.5857,
+   "mom_pct": -0.1608
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2023,
+   "month": 5,
+   "price": 5.4824,
+   "mom_pct": -1.8505
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2023,
+   "month": 6,
+   "price": 5.4709,
+   "mom_pct": -0.2086
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2023,
+   "month": 7,
+   "price": 5.6874,
+   "mom_pct": 3.9564
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2023,
+   "month": 8,
+   "price": 5.7901,
+   "mom_pct": 1.8066
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2023,
+   "month": 9,
+   "price": 5.9164,
+   "mom_pct": 2.1813
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2023,
+   "month": 10,
+   "price": 5.8424,
+   "mom_pct": -1.2508
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2023,
+   "month": 11,
+   "price": 5.7582,
+   "mom_pct": -1.4409
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2023,
+   "month": 12,
+   "price": 5.7186,
+   "mom_pct": -0.6879
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2024,
+   "month": 1,
+   "price": 5.6933,
+   "mom_pct": -0.4436
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2024,
+   "month": 2,
+   "price": 5.8561,
+   "mom_pct": 2.8594
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2024,
+   "month": 3,
+   "price": 5.8467,
+   "mom_pct": -0.1604
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2024,
+   "month": 4,
+   "price": 5.9037,
+   "mom_pct": 0.9755
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2024,
+   "month": 5,
+   "price": 5.9541,
+   "mom_pct": 0.8536
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2024,
+   "month": 6,
+   "price": 5.9473,
+   "mom_pct": -0.1141
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2024,
+   "month": 7,
+   "price": 6.1188,
+   "mom_pct": 2.8843
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2024,
+   "month": 8,
+   "price": 6.1995,
+   "mom_pct": 1.3181
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2024,
+   "month": 9,
+   "price": 6.1764,
+   "mom_pct": -0.3725
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2024,
+   "month": 10,
+   "price": 6.1871,
+   "mom_pct": 0.1731
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2024,
+   "month": 11,
+   "price": 6.192,
+   "mom_pct": 0.0791
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2024,
+   "month": 12,
+   "price": 6.2299,
+   "mom_pct": 0.6123
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2025,
+   "month": 1,
+   "price": 6.2693,
+   "mom_pct": 0.6322
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2025,
+   "month": 2,
+   "price": 6.4501,
+   "mom_pct": 2.8843
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2025,
+   "month": 3,
+   "price": 6.433,
+   "mom_pct": -0.2658
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2025,
+   "month": 4,
+   "price": 6.4005,
+   "mom_pct": -0.5055
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2025,
+   "month": 5,
+   "price": 6.3696,
+   "mom_pct": -0.4816
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2025,
+   "month": 6,
+   "price": 6.3145,
+   "mom_pct": -0.8663
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2025,
+   "month": 7,
+   "price": 6.3013,
+   "mom_pct": -0.2088
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2025,
+   "month": 8,
+   "price": 6.2781,
+   "mom_pct": -0.367
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2025,
+   "month": 9,
+   "price": 6.2866,
+   "mom_pct": 0.1351
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2025,
+   "month": 10,
+   "price": 6.3052,
+   "mom_pct": 0.2959
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2025,
+   "month": 11,
+   "price": 6.2764,
+   "mom_pct": -0.4572
+  },
+  {
+   "fuel": "GASOLINA",
+   "year": 2025,
+   "month": 12,
+   "price": 6.2917,
+   "mom_pct": 0.2445
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2023,
+   "month": 1,
+   "price": 4.0713,
+   "mom_pct": null
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2023,
+   "month": 2,
+   "price": 4.0161,
+   "mom_pct": -1.3572
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2023,
+   "month": 3,
+   "price": 4.1314,
+   "mom_pct": 2.8726
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2023,
+   "month": 4,
+   "price": 4.1638,
+   "mom_pct": 0.7828
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2023,
+   "month": 5,
+   "price": 4.1787,
+   "mom_pct": 0.359
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2023,
+   "month": 6,
+   "price": 4.0063,
+   "mom_pct": -4.1256
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2023,
+   "month": 7,
+   "price": 4.0758,
+   "mom_pct": 1.7347
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2023,
+   "month": 8,
+   "price": 3.9441,
+   "mom_pct": -3.2332
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2023,
+   "month": 9,
+   "price": 3.9491,
+   "mom_pct": 0.1271
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2023,
+   "month": 10,
+   "price": 3.9004,
+   "mom_pct": -1.2325
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2023,
+   "month": 11,
+   "price": 3.8493,
+   "mom_pct": -1.3101
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2023,
+   "month": 12,
+   "price": 3.777,
+   "mom_pct": -1.8791
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2024,
+   "month": 1,
+   "price": 3.702,
+   "mom_pct": -1.9852
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2024,
+   "month": 2,
+   "price": 3.813,
+   "mom_pct": 2.998
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2024,
+   "month": 3,
+   "price": 3.8273,
+   "mom_pct": 0.3757
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2024,
+   "month": 4,
+   "price": 3.9968,
+   "mom_pct": 4.4293
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2024,
+   "month": 5,
+   "price": 4.0604,
+   "mom_pct": 1.5898
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2024,
+   "month": 6,
+   "price": 4.0479,
+   "mom_pct": -0.3075
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2024,
+   "month": 7,
+   "price": 4.2238,
+   "mom_pct": 4.3455
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2024,
+   "month": 8,
+   "price": 4.2807,
+   "mom_pct": 1.349
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2024,
+   "month": 9,
+   "price": 4.2538,
+   "mom_pct": -0.6301
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2024,
+   "month": 10,
+   "price": 4.2325,
+   "mom_pct": -0.5001
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2024,
+   "month": 11,
+   "price": 4.2359,
+   "mom_pct": 0.0808
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2024,
+   "month": 12,
+   "price": 4.2737,
+   "mom_pct": 0.892
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2025,
+   "month": 1,
+   "price": 4.3686,
+   "mom_pct": 2.2199
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2025,
+   "month": 2,
+   "price": 4.5455,
+   "mom_pct": 4.0502
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2025,
+   "month": 3,
+   "price": 4.5426,
+   "mom_pct": -0.0646
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2025,
+   "month": 4,
+   "price": 4.5064,
+   "mom_pct": -0.796
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2025,
+   "month": 5,
+   "price": 4.4836,
+   "mom_pct": -0.5065
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2025,
+   "month": 6,
+   "price": 4.4202,
+   "mom_pct": -1.415
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2025,
+   "month": 7,
+   "price": 4.3763,
+   "mom_pct": -0.9914
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2025,
+   "month": 8,
+   "price": 4.3656,
+   "mom_pct": -0.2441
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2025,
+   "month": 9,
+   "price": 4.4232,
+   "mom_pct": 1.319
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2025,
+   "month": 10,
+   "price": 4.4494,
+   "mom_pct": 0.5916
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2025,
+   "month": 11,
+   "price": 4.4443,
+   "mom_pct": -0.1156
+  },
+  {
+   "fuel": "ETANOL",
+   "year": 2025,
+   "month": 12,
+   "price": 4.5303,
+   "mom_pct": 1.9357
+  }
+ ]
+}
