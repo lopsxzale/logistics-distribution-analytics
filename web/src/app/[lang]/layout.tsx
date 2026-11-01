@@ -21,7 +21,7 @@ export async function generateMetadata({ params }: LayoutProps<"/[lang]">): Prom
   if (!hasLocale(lang)) return {};
   const t = getDictionary(lang);
   return {
-    ...(site.url ? { metadataBase: new URL(site.url) } : {}),
+    ...(site.url ? { metadataBase: new URL(new URL(site.url).origin) } : {}),
     // Aba do navegador: curto e objetivo. A manchete completa fica no compartilhamento (OG).
     title: t.meta.tabTitle,
     description: t.meta.description,
