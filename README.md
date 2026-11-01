@@ -2,6 +2,8 @@
 
 **Quanto custa abastecer uma operação de distribuição no Brasil, onde, quando e com que risco?** Análise de ponta a ponta (extração → banco relacional → SQL analítico → métricas em Python → site interativo) sobre **2,6 milhões de preços** de combustíveis coletados pela ANP de 2023 a 2025, com cada achado convertido em recomendação de negócio e um **simulador de custo de frota**.
 
+**[Ver o site ao vivo →](https://logistics-distribution-analytics.vercel.app/pt/)** · [English version](https://logistics-distribution-analytics.vercel.app/en/)
+
 [![CI](https://github.com/lopsxzale/logistics-distribution-analytics/actions/workflows/ci.yml/badge.svg)](https://github.com/lopsxzale/logistics-distribution-analytics/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.11%2B-3776AB)
 ![Next.js](https://img.shields.io/badge/Next.js-16-000000)
