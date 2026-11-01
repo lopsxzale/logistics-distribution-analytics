@@ -120,4 +120,4 @@ pytest
 
 ---
 
-Feito por **Alexandre Lopes**, aprendiz de logística em distribuição, construindo em dados as respostas para as perguntas do dia a dia da operação. [LinkedIn](https://www.linkedin.com/in/alexandrelopes0/)
+Feito por **Alexandre Lopes**, aprendiz de armazém, construindo em dados as respostas para as perguntas do dia a dia da operação. [LinkedIn](https://www.linkedin.com/in/alexandrelopes0/)

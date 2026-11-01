@@ -274,7 +274,7 @@ export const pt = {
   about: {
     eyebrow: "Sobre o autor",
     title: "Dados para as perguntas do dia a dia da logística",
-    text: "Sou {author}, aprendiz de logística em distribuição. Construo em dados as respostas para as perguntas que aparecem na operação: quanto custa, onde, quando e com que risco. Estou em busca de oportunidades em análise de dados.",
+    text: "Sou {author}, aprendiz de armazém. Construo em dados as respostas para as perguntas que aparecem na operação: quanto custa, onde, quando e com que risco. Estou em busca de oportunidades em análise de dados.",
     linkedin: "LinkedIn",
     github: "GitHub",
     email: "E-mail",

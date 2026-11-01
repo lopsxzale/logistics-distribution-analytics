@@ -275,7 +275,7 @@ export const en: Dictionary = {
   about: {
     eyebrow: "About the author",
     title: "Data for everyday logistics questions",
-    text: "I'm {author}, a logistics apprentice in distribution. I build data answers to the questions that come up in operations: how much, where, when and with what risk. I'm looking for opportunities in data analysis.",
+    text: "I'm {author}, a warehouse apprentice. I build data answers to the questions that come up in operations: how much, where, when and with what risk. I'm looking for opportunities in data analysis.",
     linkedin: "LinkedIn",
     github: "GitHub",
     email: "Email",
